@@ -8,8 +8,8 @@ pip install --upgrade git+https://github.com/brandond/obra-upgrade-calculator
 pushd ~/repos/brandond.github.io/ &> /dev/null
 
 git pull
-obra-upgrade-calculator --type cyclocross --format html  > obra-cx-upgrades/index.html
-obra-upgrade-calculator --type cyclocross --format csv --no-scrape > obra-cx-upgrades/upgrades.csv
+obra-upgrade-calculator --type cyclocross --format html --strict > obra-cx-upgrades/index.html
+obra-upgrade-calculator --type cyclocross --format csv  --strict --no-scrape > obra-cx-upgrades/upgrades.csv
 git commit obra-cx-upgrades/index.html obra-cx-upgrades/upgrades.csv -m 'Daily results auto-update'
 git push
 
