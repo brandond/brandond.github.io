@@ -1,3 +1,4 @@
+Place| Cat   | Name                    : Rank points
 1    | 1     | Decker, Carl            : 204 points
 2    | 1     | Babcock, Sean           : 209 points
 3    | 1     | Kelley, Josh            : 211 points
@@ -188,7 +189,7 @@
 94   | 3     | Tyburski, Garrett       : 345 points
 95   | 3     | Rear, Gavin             : 346 points
 96   | 4     | Boelter, Joshua         : 347 points
-96   |       | Ganter, Chris           : 347 points
+96   | SS    | Ganter, Chris           : 347 points
 96   | 2     | Johansen, Joshua        : 347 points
 96   | 2     | MacMinn, Sean           : 347 points
 97   | 2     | Crampton, Matthew       : 348 points
@@ -275,7 +276,7 @@
 118  | 2/3   | Smith, Jeff             : 371 points
 118  | 4     | Thorne, Benicio         : 371 points
 119  | 1/2   | Coats, James            : 373 points
-119  |       | Headley, Grant          : 373 points
+119  | SS    | Headley, Grant          : 373 points
 119  | 2     | Leins, Carley           : 373 points
 119  | 4     | McFadin, Ezekiel        : 373 points
 119  | 3     | Popp, Steve             : 373 points
@@ -295,7 +296,7 @@
 125  | 2     | Campbell, Terry         : 379 points
 125  | 2     | Drennan, Kate           : 379 points
 125  | 3     | Jaspersen, JD           : 379 points
-125  |       | Lanners, Eric           : 379 points
+125  | SS    | Lanners, Eric           : 379 points
 125  | 4     | Lathrop, Jared          : 379 points
 125  | 4     | Smith, Elijah           : 379 points
 125  | 4     | van Maaren, Ivor        : 379 points
@@ -339,9 +340,9 @@
 138  | 4     | DePeel, Casey           : 393 points
 138  | 3     | Dufour, Gregory         : 393 points
 138  | 4     | Orman, Tucker           : 393 points
-139  |       | Bentley, Peter          : 394 points
+139  | SS    | Bentley, Peter          : 394 points
 139  | 2     | Hildreth, Darragh       : 394 points
-139  |       | Kaysen, David           : 394 points
+139  | SS    | Kaysen, David           : 394 points
 139  | 4     | Lopez, John             : 394 points
 139  | 4     | Owen, D'Arcy            : 394 points
 139  | 3     | Russell, Aaron          : 394 points
@@ -360,12 +361,12 @@
 142  | 1/2   | Miller, Mallory         : 397 points
 142  | 4     | Peterson, Daniel        : 397 points
 142  | 1/2   | Prause, David           : 397 points
-142  |       | Voldengen, Erik         : 397 points
+142  | SS    | Voldengen, Erik         : 397 points
 143  | 4     | Jones, Jackson          : 398 points
 143  | 3     | McConnell, George P.S.  : 398 points
 143  | 2     | Nelson, Susannah        : 398 points
 143  | 3     | Spiak, Stephanie        : 398 points
-144  |       | Goff, Wade              : 399 points
+144  | SS    | Goff, Wade              : 399 points
 144  | 3     | Hyde, Steven            : 399 points
 144  | 2     | Williams, Mark          : 399 points
 145  | 3     | Ensor, Brett            : 400 points
@@ -378,8 +379,8 @@
 147  | 3     | Limbaugh, John          : 402 points
 147  | 3     | Lincoln, Daniel         : 402 points
 147  | 2     | Meier, Roger            : 402 points
-147  |       | Richards, Mathison      : 402 points
-147  |       | Wilger, Dublin          : 402 points
+147  | SS    | Richards, Mathison      : 402 points
+147  | SS    | Wilger, Dublin          : 402 points
 148  | 3     | Squires, Audrey         : 403 points
 149  | 3     | Cabatic, Gabriel        : 404 points
 149  | 2     | Collins, Michael        : 404 points
@@ -390,8 +391,8 @@
 152  | 2     | Little, Mari            : 407 points
 152  | 4     | Pinzone, Joe            : 407 points
 152  | 4     | Stromquist, Ian         : 407 points
-152  |       | Tuttle, Christopher     : 407 points
-152  |       | Williams, Ashley        : 407 points
+152  | SS    | Tuttle, Christopher     : 407 points
+152  | SS    | Williams, Ashley        : 407 points
 152  | 3     | Wilson, Tyler           : 407 points
 152  | 3     | Young, Andrew           : 407 points
 153  | 3     | Hoffman, Eric           : 408 points
@@ -401,12 +402,12 @@
 154  | 3     | Adkins, John            : 409 points
 154  | 5     | Harrison, Halen         : 409 points
 154  | 2     | Pola, Heather           : 409 points
-154  |       | Ruff, Adam              : 409 points
+154  | SS    | Ruff, Adam              : 409 points
 154  | 3/4/5 | Zipper, Cameron         : 409 points
-155  |       | Howard, Colin           : 410 points
+155  | SS    | Howard, Colin           : 410 points
 156  | 4     | McIntyre, Ryan          : 411 points
 156  | 3/4/5 | Prochaska, Eli          : 411 points
-156  |       | San Agustin, Christopher: 411 points
+156  | SS    | San Agustin, Christopher: 411 points
 157  | 3     | Hanselman, Joshua       : 412 points
 157  | 3     | Hash, Sarah Jane        : 412 points
 157  | 3     | Hatfield, John          : 412 points
@@ -424,9 +425,9 @@
 160  | 4     | westerfield, Mark       : 415 points
 161  | 3     | Bailey, Demian          : 416 points
 161  | 1     | Callahan, Sierra        : 416 points
-162  |       | Faes, Gene              : 417 points
+162  | SS    | Faes, Gene              : 417 points
 162  | 5     | Froelich, Dan           : 417 points
-162  |       | Letourneau, Andy        : 417 points
+162  | SS    | Letourneau, Andy        : 417 points
 163  | 3     | Kubisch, Joshua         : 418 points
 163  | 3     | Rice, Hannah            : 418 points
 163  | 3     | Serslev, Rachel         : 418 points
@@ -435,13 +436,13 @@
 164  | 2     | Giombolini, Katy        : 419 points
 165  | 2     | Edick, Andy             : 420 points
 165  | 2     | Koonce, Susan           : 420 points
-165  |       | Myers, Greg             : 420 points
+165  | SS    | Myers, Greg             : 420 points
 165  | 1/2   | Uetrecht, Robert        : 420 points
 166  | 4     | Barrett, Charles        : 421 points
 166  | 3     | Ohotto, John            : 421 points
 167  | 3     | Flanagan, Beth          : 422 points
 167  | 2     | Goodell, Erinne         : 422 points
-167  |       | McLain, Neil            : 422 points
+167  | SS    | McLain, Neil            : 422 points
 168  | 2     | Blomberg, Mielle        : 423 points
 168  | 3     | Grover, Todd            : 423 points
 168  | 3     | Hanley, Brian           : 423 points
@@ -464,25 +465,25 @@
 173  | 2     | Hillary, Rebecca        : 428 points
 174  | 2     | Mathers, Kayt           : 429 points
 174  | 4     | Schimpf, Ryan           : 429 points
-174  |       | Self, Brad              : 429 points
-174  |       | Wazny, Scott            : 429 points
+174  | SS    | Self, Brad              : 429 points
+174  | SS    | Wazny, Scott            : 429 points
 174  | 3     | Yorra, Hannah           : 429 points
 175  | 3     | Boling, Evelyn          : 430 points
 175  | 3     | Brownback, Keeley       : 430 points
 175  | 1     | Halpin, Allison         : 430 points
 175  | 4     | LaPlante, Scott         : 430 points
 175  | 3/4/5 | Tai, Benjamin           : 430 points
-176  |       | Blankenship, Bjorn      : 431 points
+176  | SS    | Blankenship, Bjorn      : 431 points
 176  | 4     | Jetton, Matthew         : 431 points
 176  | 1     | Rice, Amy               : 431 points
 177  | 3     | Buckley, Anna           : 432 points
-177  |       | Sakacsi, Jeff           : 432 points
+177  | SS    | Sakacsi, Jeff           : 432 points
 177  | 2     | Saltonstall, Anna       : 432 points
 178  | 3     | Cushman, Kristi         : 433 points
-178  |       | Duppenthaler, Troy      : 433 points
-178  |       | Pettitt, John           : 433 points
+178  | SS    | Duppenthaler, Troy      : 433 points
+178  | SS    | Pettitt, John           : 433 points
 178  | 5     | Sherry, Tim             : 433 points
-178  |       | Swan, Chris             : 433 points
+178  | SS    | Swan, Chris             : 433 points
 179  | 1/2   | Keller, Tom             : 434 points
 179  | 4     | McGrew, James           : 434 points
 179  | 1     | Pennington, Alice       : 434 points
@@ -491,8 +492,8 @@
 179  | 2     | Stover, Brittany        : 434 points
 180  | 2     | Johnson, Shane          : 435 points
 180  | 2     | Kunkler, Andy           : 435 points
-180  |       | McGlone, Ryan           : 435 points
-180  |       | Pierce, Calum           : 435 points
+180  | SS    | McGlone, Ryan           : 435 points
+180  | SS    | Pierce, Calum           : 435 points
 181  | 3     | Pearson, John           : 436 points
 181  | 3     | Souders, Paul           : 436 points
 182  | 4     | Hall, Travis            : 437 points
@@ -502,15 +503,15 @@
 184  | 3/4/5 | Hamness, Jacob          : 439 points
 184  | 3/4/5 | Hanson, Josiah          : 439 points
 184  | 2     | Hinkle, Jonathon        : 439 points
-184  |       | Ives, Jace              : 439 points
+184  | SS    | Ives, Jace              : 439 points
 184  | 4     | LaBarbera, Lorena       : 439 points
 184  | 2     | Tavori, Hagai           : 439 points
-185  |       | French, Joseph          : 440 points
-185  |       | Laawler, Greg           : 440 points
+185  | SS    | French, Joseph          : 440 points
+185  | SS    | Laawler, Greg           : 440 points
 185  | 3     | Pace, Kenneth           : 440 points
 185  | 3/4   | Schultz, Carter         : 440 points
 186  | 3     | Colistro, Anthony       : 441 points
-186  |       | Dendiuk, John           : 441 points
+186  | SS    | Dendiuk, John           : 441 points
 186  | 2     | Ervin, Kyler            : 441 points
 186  | 2     | Maguire, Remy           : 441 points
 186  | 3     | Solovewicz, Cory        : 441 points
@@ -525,16 +526,16 @@
 188  | 4     | Kersch, Cymon           : 443 points
 188  | 4     | Parco, Chris            : 443 points
 189  | 2     | Rotstein, Zach          : 444 points
-189  |       | Spedini, Stefano        : 444 points
-189  |       | Wilder, Michael         : 444 points
-189  |       | Wilger, John            : 444 points
+189  | SS    | Spedini, Stefano        : 444 points
+189  | SS    | Wilder, Michael         : 444 points
+189  | SS    | Wilger, John            : 444 points
 190  | 5     | Derting, Joe            : 445 points
 190  | 4     | Taini, Matt             : 445 points
-190  |       | Wilson, Sky             : 445 points
+190  | SS    | Wilson, Sky             : 445 points
 191  | 3     | Koonce, Peter           : 446 points
 191  | 2     | Meyer, Brian            : 446 points
 192  | 3     | Spurr, David            : 447 points
-193  |       | Manea, Christopher      : 448 points
+193  | SS    | Manea, Christopher      : 448 points
 193  | 3     | Peterson, Mahika        : 448 points
 193  | 4     | Wood, Nick              : 448 points
 194  | 3     | Engel, Cynthia          : 449 points
@@ -542,16 +543,16 @@
 194  | 3     | Hryciw, Gwen            : 449 points
 195  | 4     | Boelter, Shelly         : 450 points
 195  | 2     | Hahn, Stephanie         : 450 points
-195  |       | Mizee, Ketner           : 450 points
+195  | SS    | Mizee, Ketner           : 450 points
 196  | 3     | Becerra, Cecilia        : 451 points
 196  | 2     | Reis, Tiago             : 451 points
 196  | 3/4   | Santana, William        : 451 points
-197  |       | Chiles, Derek           : 452 points
+197  | SS    | Chiles, Derek           : 452 points
 197  | 4     | Hooker, Whitney         : 452 points
 197  | 5     | Meyer, Jonathan         : 452 points
-197  |       | Myers, Ronan            : 452 points
+197  | SS    | Myers, Ronan            : 452 points
 197  | 4     | Podlesak, Ondrej        : 452 points
-197  |       | Porter, Simon           : 452 points
+197  | SS    | Porter, Simon           : 452 points
 197  | 3     | Radspinner, Aaron       : 452 points
 197  | 5     | Shimamoto, Connor       : 452 points
 197  | 4     | Ticknor, Ben            : 452 points
@@ -564,22 +565,22 @@
 200  | 4     | Carter, Stephen         : 455 points
 200  | 4     | Petermann, Amelia       : 455 points
 200  | 2     | Philips, Justin         : 455 points
-200  |       | Rose, Steven            : 455 points
+200  | SS    | Rose, Steven            : 455 points
 201  | 3     | Dramer, Nathan          : 456 points
 201  | 3     | James, Tyler            : 456 points
-202  |       | Lopez, Saul             : 457 points
+202  | SS    | Lopez, Saul             : 457 points
 202  | 4     | Mcfadin, Una            : 457 points
-202  |       | Olsen, Jacob            : 457 points
-202  |       | Shaw, Daniel            : 457 points
+202  | SS    | Olsen, Jacob            : 457 points
+202  | SS    | Shaw, Daniel            : 457 points
 203  | 3/4/5 | Winans, Tyler           : 458 points
 204  | 5     | Jimenez, Josue          : 459 points
 204  | 2     | Johnson, Paul           : 459 points
 204  | 4     | Lazur, John             : 459 points
-204  |       | Risner, Michael         : 459 points
+204  | SS    | Risner, Michael         : 459 points
 204  | 1/2   | schroeder, allen        : 459 points
 204  | 3     | Zugor, Eric             : 459 points
 205  | 2     | Carver, Robert          : 460 points
-206  |       | Smith, Max              : 461 points
+206  | SS    | Smith, Max              : 461 points
 207  | 5     | Smith, Justin           : 462 points
 207  | 3/4/5 | Visnack, Natasha        : 462 points
 207  | 4     | Wisdom, Chris           : 462 points
@@ -591,7 +592,7 @@
 209  | 4     | Cardwell, Tommy         : 464 points
 209  | 4     | Liggett, Anne           : 464 points
 209  | 2     | McCaffrey, John         : 464 points
-210  |       | Grover, Evan            : 465 points
+210  | SS    | Grover, Evan            : 465 points
 210  | 3     | Skiffington, Mark       : 465 points
 210  | 2     | Spranger, Calvin        : 465 points
 210  | 4     | Whitaker, Jesse         : 465 points
@@ -603,11 +604,11 @@
 211  | 4     | Zane, Jeremy            : 466 points
 212  | 3     | Beard, Rob              : 467 points
 212  | 4     | Ladwig, Jason           : 467 points
-212  |       | Neumaier, Ethan         : 467 points
+212  | SS    | Neumaier, Ethan         : 467 points
 212  | 3     | Wolfgang, Heather       : 467 points
 213  | 4     | Dale, Margaret          : 468 points
-213  |       | Hart, Tyson             : 468 points
-213  |       | Lais, James             : 468 points
+213  | SS    | Hart, Tyson             : 468 points
+213  | SS    | Lais, James             : 468 points
 213  | 3     | Spampinato, Lucian      : 468 points
 213  | 2     | Wrye-Simpson, Brenna    : 468 points
 214  | 3     | Brown, Sha-Marie        : 469 points
@@ -631,9 +632,9 @@
 218  | 3/4/5 | Wilks, Owen             : 473 points
 218  | 4     | Zumwalt, Blaine         : 473 points
 219  | 3     | Barrett, Gunner         : 474 points
-219  |       | Gibson, Neil            : 474 points
+219  | SS    | Gibson, Neil            : 474 points
 219  | 2     | Masessa, Sheri          : 474 points
-219  |       | Salzberg, Ben           : 474 points
+219  | SS    | Salzberg, Ben           : 474 points
 219  | 4     | Steimer, Eric           : 474 points
 220  | 4     | Bergerson, Luke         : 475 points
 220  | 4     | Dimick, Damon           : 475 points
@@ -645,30 +646,30 @@
 221  | 5     | Stover, Kieran          : 476 points
 222  | 3     | McKinley, Eric          : 477 points
 222  | 4     | Tunis, Justin           : 477 points
-222  |       | Waldron, Bret           : 477 points
+222  | SS    | Waldron, Bret           : 477 points
 223  | 4     | Lewis, Brett            : 478 points
-223  |       | Richie, Mateen          : 478 points
+223  | SS    | Richie, Mateen          : 478 points
 224  | 2     | Drucker, Benjamin       : 479 points
 224  | 3     | Hawkins, Christy        : 479 points
 224  | 3     | Hutchison, Carrie       : 479 points
 224  | 3     | Waters, Ben             : 479 points
 225  | 3/4/5 | Duarte, Aaron           : 480 points
 225  | 4     | Lurie, Mike             : 480 points
-226  |       | Dubuisson, Benoit       : 481 points
+226  | SS    | Dubuisson, Benoit       : 481 points
 226  | 2     | Freilinger, Crossett    : 481 points
 226  | 4     | Gagosian, Ben           : 481 points
-226  |       | Stuart, Daniel          : 481 points
+226  | SS    | Stuart, Daniel          : 481 points
 227  | 4     | Boutilier, Jordan       : 482 points
-227  |       | Carter, Barton          : 482 points
+227  | SS    | Carter, Barton          : 482 points
 227  | 4     | Contreras, Toby         : 482 points
 227  | 2     | Halbrook, Dolan         : 482 points
 227  | 3     | Hooge, Matt             : 482 points
 227  | 2     | Minarik, Doug           : 482 points
-227  |       | Trimble, Nathan         : 482 points
+227  | SS    | Trimble, Nathan         : 482 points
 227  | 3     | Wilkins, Matthew        : 482 points
-228  |       | Anderson, Sharon        : 483 points
+228  | SS    | Anderson, Sharon        : 483 points
 228  | 3     | Denney, Sean            : 483 points
-228  |       | Wilson, Sean            : 483 points
+228  | SS    | Wilson, Sean            : 483 points
 229  | 3     | Cohen, Alexandra        : 484 points
 229  | 5     | Hagedorn, Cole          : 484 points
 230  | 5     | Bailey, Aaron           : 485 points
@@ -676,92 +677,92 @@
 230  | 3     | Berg, Matt              : 485 points
 230  | 4     | Shaw, Steve             : 485 points
 231  | 4     | Clifford, Christopher   : 486 points
-231  |       | Hodges III, Clinton R   : 486 points
+231  | SS    | Hodges III, Clinton R   : 486 points
 232  | 4     | Clay, Jeff              : 487 points
-232  |       | Dale, Jackson           : 487 points
+232  | SS    | Dale, Jackson           : 487 points
 232  | 3     | Eustis, Sarah           : 487 points
 232  | 3     | Layton, Sarah           : 487 points
 232  | 4     | Mahoney, Luke           : 487 points
-232  |       | Morris, Andy            : 487 points
+232  | SS    | Morris, Andy            : 487 points
 232  | 4     | Varnum, Casey           : 487 points
 233  | 4     | Couch, Epiphany         : 488 points
-233  |       | Eastes, Beau            : 488 points
+233  | SS    | Eastes, Beau            : 488 points
 233  | 2     | Gove, Makena            : 488 points
 233  | 2     | LaRue, Holland          : 488 points
 233  | 4     | Linton, Katie           : 488 points
 233  | 4     | Livingston, Sarah       : 488 points
 233  | 3     | Moore, Hannah           : 488 points
-233  |       | Roedel, Spencer         : 488 points
-234  |       | Barton, Alex            : 489 points
+233  | SS    | Roedel, Spencer         : 488 points
+234  | SS    | Barton, Alex            : 489 points
 234  | 1     | Burns, Beth             : 489 points
 234  | 1/2   | Porter, Dan             : 489 points
 234  | 3     | Rackley, Justin         : 489 points
 234  | 3     | Smith, Garret           : 489 points
 234  | 4     | Smith, Thomas           : 489 points
 234  | 3     | Spuling, Witali         : 489 points
-234  |       | Tate, Sam               : 489 points
+234  | SS    | Tate, Sam               : 489 points
 235  | 1/2   | Davis, Dave             : 490 points
-235  |       | Gilles, Ryan P.         : 490 points
+235  | SS    | Gilles, Ryan P.         : 490 points
 235  | 3     | Shepherd, Dan           : 490 points
 235  | 5     | webber, christine       : 490 points
 236  | 3     | Birdwell, Scott         : 491 points
 236  | 4     | Greenwalt, Paul         : 491 points
 236  | 3     | Hendrickson, Jason      : 491 points
-236  |       | Sander, Aaron           : 491 points
+236  | SS    | Sander, Aaron           : 491 points
 237  | 3     | Engstrom, Amy           : 492 points
-237  |       | Meyer, Chuck            : 492 points
+237  | SS    | Meyer, Chuck            : 492 points
 237  | 4     | Taylor, Jordan          : 492 points
-238  |       | Austin, Craig           : 493 points
-238  |       | Curry, Bryna            : 493 points
+238  | SS    | Austin, Craig           : 493 points
+238  | SS    | Curry, Bryna            : 493 points
 238  | 2     | Megale, Anna            : 493 points
 238  | 3     | Solomon, Paul           : 493 points
 238  | 4     | Soto, Steven            : 493 points
-238  |       | Torres, Jose            : 493 points
+238  | SS    | Torres, Jose            : 493 points
 239  | 1     | Barber, Jordan          : 494 points
-239  |       | Dill, Jeff              : 494 points
+239  | SS    | Dill, Jeff              : 494 points
 239  | 3     | Hatton, Philip          : 494 points
-239  |       | Kath, Mike              : 494 points
-239  |       | Lehner, Rafe            : 494 points
+239  | SS    | Kath, Mike              : 494 points
+239  | SS    | Lehner, Rafe            : 494 points
 239  | 2     | Miller, Dusty           : 494 points
-239  |       | Moxia, Moses            : 494 points
+239  | SS    | Moxia, Moses            : 494 points
 240  | 3     | Greeve, Jennifer        : 495 points
 240  | 3     | Harris, Ian             : 495 points
-240  |       | Maaranen, Emma          : 495 points
+240  | SS    | Maaranen, Emma          : 495 points
 240  | 4     | Markez, John            : 495 points
-240  |       | Newman, Jesse           : 495 points
-240  |       | Rice, Gavin             : 495 points
+240  | SS    | Newman, Jesse           : 495 points
+240  | SS    | Rice, Gavin             : 495 points
 240  | 3     | Rossi, Anthony          : 495 points
 240  | 3     | Russell, Julie          : 495 points
 240  | 4     | Scott, Samantha         : 495 points
 241  | 3     | Campbell, Jay           : 496 points
 241  | 2     | Gantz, Jimmy            : 496 points
 241  | 5     | Jacobs, Rowan           : 496 points
-241  |       | Mills, Kyle             : 496 points
+241  | SS    | Mills, Kyle             : 496 points
 241  | 2     | Nielsen, Heidi          : 496 points
 241  | 3     | Perry, Andrew           : 496 points
 241  | 1/2   | Winter, Zak             : 496 points
-242  |       | Andrus, Adam            : 497 points
+242  | SS    | Andrus, Adam            : 497 points
 242  | 4     | Campbell, Jim           : 497 points
 242  | 3     | Morales, Anthony        : 497 points
 242  | 3     | Smolen, Traci           : 497 points
 242  | 3     | Swan, Darin             : 497 points
 243  | 3     | Clayton, Ryan           : 498 points
-243  |       | Gallaher, Todd          : 498 points
-243  |       | Sanderling, Dave        : 498 points
+243  | SS    | Gallaher, Todd          : 498 points
+243  | SS    | Sanderling, Dave        : 498 points
 243  | 2     | Weaver, Ryan            : 498 points
-243  |       | Webb, Burk              : 498 points
+243  | SS    | Webb, Burk              : 498 points
 244  | 3     | Blenkiron, Erin         : 499 points
 244  | 3     | Briggs, Matthew         : 499 points
 244  | 4     | DeSapio, John           : 499 points
 244  | 4     | Fuld, Ethan             : 499 points
 244  | 3/4/5 | Hanley, Carter          : 499 points
 245  | 3     | Dallas, Mary            : 500 points
-245  |       | Dinwiddie, Joshua       : 500 points
-245  |       | Grover, Peter           : 500 points
+245  | SS    | Dinwiddie, Joshua       : 500 points
+245  | SS    | Grover, Peter           : 500 points
 245  | 3     | Jacques, Ross           : 500 points
 245  | 5     | Laxson, Kaeli           : 500 points
 245  | 3/4/5 | Shaffner, Stefan        : 500 points
-246  |       | Hein, Ben               : 501 points
+246  | SS    | Hein, Ben               : 501 points
 246  | 3     | Kohagen, Brian          : 501 points
 246  | 1/2   | Megale, Ian             : 501 points
 246  | 3     | Villanueva, Cesar       : 501 points
@@ -773,60 +774,60 @@
 248  | 4     | Brown, Leah             : 503 points
 248  | 5     | Fishler Rice, Sarah     : 503 points
 248  | 4     | Horn, Jacob             : 503 points
-248  |       | Merrithew, Jesse        : 503 points
+248  | SS    | Merrithew, Jesse        : 503 points
 249  | 4     | Livett, Caroline        : 504 points
-249  |       | Lujan, Tanner           : 504 points
+249  | SS    | Lujan, Tanner           : 504 points
 249  | 5     | Pool, Richard           : 504 points
-249  |       | Ruiz, Tony              : 504 points
+249  | SS    | Ruiz, Tony              : 504 points
 249  | 1     | Sheagley, Eric          : 504 points
 250  | 3     | Eastman, Andrew         : 505 points
 250  | 4     | Hayner, Adam            : 505 points
 250  | 3/4/5 | Westby, Aspynn          : 505 points
 251  | 4     | Beckerich, Benjamin     : 506 points
-251  |       | Kaeser, Henry           : 506 points
+251  | SS    | Kaeser, Henry           : 506 points
 252  | 1/2   | Cramer, Rich            : 507 points
-252  |       | Hand, Mark              : 507 points
-252  |       | Hunter, Eric            : 507 points
+252  | SS    | Hand, Mark              : 507 points
+252  | SS    | Hunter, Eric            : 507 points
 252  | 2     | Levo, Jenn              : 507 points
 252  | 2     | Lloyd, Roger            : 507 points
 253  | 5     | Palmer, Jonathan        : 508 points
-254  |       | Billowitz, Jack         : 509 points
+254  | SS    | Billowitz, Jack         : 509 points
 254  | 1     | Elstad, Jason           : 509 points
 254  | 2     | Eslinger, Cliff         : 509 points
 254  | 3/4/5 | Rice, Kailey            : 509 points
-254  |       | Trainer, Gabriel        : 509 points
+254  | SS    | Trainer, Gabriel        : 509 points
 254  | 4     | Weaver, Reid            : 509 points
 254  | 3/4/5 | Westerfield, Spring     : 509 points
 255  | 3/4/5 | DiVietro, Caroline      : 510 points
 255  | 3/4/5 | Oldenburg, Jordyn       : 510 points
-255  |       | Polachek, Jacob         : 510 points
-256  |       | Duffy, Thomas           : 511 points
+255  | SS    | Polachek, Jacob         : 510 points
+256  | SS    | Duffy, Thomas           : 511 points
 256  | 3     | Fischer, Eric           : 511 points
 256  | 2     | Fox, Laura              : 511 points
 256  | 5     | Ramakers, Stacy         : 511 points
 256  | 4     | Spiritos, Erica         : 511 points
-256  |       | Stiles, Shaun           : 511 points
-257  |       | Baldwin, John           : 512 points
-257  |       | Boucher, John           : 512 points
-257  |       | Cornejo, Brandon        : 512 points
+256  | SS    | Stiles, Shaun           : 511 points
+257  | SS    | Baldwin, John           : 512 points
+257  | SS    | Boucher, John           : 512 points
+257  | SS    | Cornejo, Brandon        : 512 points
 257  | 5     | Gomez, Jeremy           : 512 points
 257  | 4     | Hope, Thomas            : 512 points
-257  |       | Passadore, Albert       : 512 points
-257  |       | Yano, Daisuke           : 512 points
-258  |       | Bietz, Jason            : 513 points
+257  | SS    | Passadore, Albert       : 512 points
+257  | SS    | Yano, Daisuke           : 512 points
+258  | SS    | Bietz, Jason            : 513 points
 258  | 1     | Boscacci, Emily         : 513 points
 258  | 5     | Bridgewater, Allison    : 513 points
 258  | 2/3   | Conover, Scott          : 513 points
 258  | 4     | Davis, Jake             : 513 points
 258  | 4     | Gyulafia, Mark          : 513 points
-258  |       | Skinner, Colin          : 513 points
-258  |       | Smith, Anthony          : 513 points
+258  | SS    | Skinner, Colin          : 513 points
+258  | SS    | Smith, Anthony          : 513 points
 258  | 5     | Standish, Kellie        : 513 points
 259  | 4     | Austin, Julia           : 514 points
 259  | 3     | Evans, Eric             : 514 points
 259  | 2     | Julyan, Rich            : 514 points
 259  | 4     | Kolb, Susan             : 514 points
-259  |       | Laskowski, Dieter       : 514 points
+259  | SS    | Laskowski, Dieter       : 514 points
 259  | 5     | Ryan, Kevin             : 514 points
 259  | 4     | Stark, Jesse            : 514 points
 260  | 5     | Francis, Paul           : 515 points
@@ -835,22 +836,22 @@
 260  | 3     | Pfeiffer, Holly         : 515 points
 260  | 4     | Reynolds, Jason         : 515 points
 260  | 3     | Weir, Tess              : 515 points
-261  |       | Bogli, Jered            : 516 points
+261  | SS    | Bogli, Jered            : 516 points
 261  | 3     | Brunsman, Krissy        : 516 points
-261  |       | Burke, David            : 516 points
-261  |       | Cannon, Brian           : 516 points
-261  |       | Egan, Raymond           : 516 points
-261  |       | Furniss, Ethan          : 516 points
-261  |       | Gillette, Will          : 516 points
+261  | SS    | Burke, David            : 516 points
+261  | SS    | Cannon, Brian           : 516 points
+261  | SS    | Egan, Raymond           : 516 points
+261  | SS    | Furniss, Ethan          : 516 points
+261  | SS    | Gillette, Will          : 516 points
 261  | 3/4/5 | Little, Sydney          : 516 points
-261  |       | McMurtry, Mark          : 516 points
+261  | SS    | McMurtry, Mark          : 516 points
 261  | 2     | Staha, Stephen          : 516 points
 261  | 3/4/5 | Thompson, Joelle        : 516 points
 261  | 3     | Wolff, Tony             : 516 points
 262  | 4     | Barton, Megan           : 517 points
-262  |       | Coney, Jon              : 517 points
+262  | SS    | Coney, Jon              : 517 points
 262  | 4     | Hamness, Scott          : 517 points
-262  |       | Johnson, Brian          : 517 points
+262  | SS    | Johnson, Brian          : 517 points
 263  | 4     | Burgess, Cate           : 518 points
 263  | 4     | Coons, Ryan             : 518 points
 263  | 5     | Green, Parker           : 518 points
@@ -862,353 +863,353 @@
 264  | 2     | Dougherty, Iris         : 519 points
 264  | 3     | Marchington, Andrew     : 519 points
 264  | 3     | Roberts, Luke           : 519 points
-264  |       | Sheafor, Nathan         : 519 points
+264  | SS    | Sheafor, Nathan         : 519 points
 264  | 4     | Soto, Luke              : 519 points
 264  | 3     | Young, Erik             : 519 points
 265  | 4     | Chennell, Milli         : 520 points
 265  | 1/2   | Davoust, Stephan        : 520 points
 265  | 3     | Iwasa, Ben              : 520 points
-265  |       | Platt, Andy             : 520 points
+265  | SS    | Platt, Andy             : 520 points
 265  | 2     | Trepess, Rodney         : 520 points
-265  |       | Westberg, Steven        : 520 points
-265  |       | Wilcox, David           : 520 points
+265  | SS    | Westberg, Steven        : 520 points
+265  | SS    | Wilcox, David           : 520 points
 266  | 4     | Addabbo, Pat            : 521 points
 266  | 3     | Draper, Howard          : 521 points
-266  |       | Pilz, David             : 521 points
-266  |       | Rayls, David            : 521 points
+266  | SS    | Pilz, David             : 521 points
+266  | SS    | Rayls, David            : 521 points
 266  | 3     | Reedy, Helen            : 521 points
-266  |       | Turk, Tim               : 521 points
-266  |       | Vogs, Alexander         : 521 points
+266  | SS    | Turk, Tim               : 521 points
+266  | SS    | Vogs, Alexander         : 521 points
 267  | 3/4/5 | Eckert, Kylie           : 522 points
 267  | 5     | Hanson, Andrew          : 522 points
 267  | 4     | Jessee, Melisa          : 522 points
-267  |       | Kingsley, Austin        : 522 points
+267  | SS    | Kingsley, Austin        : 522 points
 267  | 2     | Lolich, Erin            : 522 points
-267  |       | Marks, Ryan             : 522 points
-267  |       | Pennington, Luke        : 522 points
+267  | SS    | Marks, Ryan             : 522 points
+267  | SS    | Pennington, Luke        : 522 points
 267  | 2     | Reis, Erin              : 522 points
 267  | 3     | Royce, Thomas           : 522 points
-268  |       | Doggett, Sage           : 523 points
+268  | SS    | Doggett, Sage           : 523 points
 268  | 3     | Haynie, Curtis          : 523 points
-268  |       | Sather, Mark            : 523 points
-269  |       | Borrowman, Ryan         : 524 points
+268  | SS    | Sather, Mark            : 523 points
+269  | SS    | Borrowman, Ryan         : 524 points
 269  | 3     | Davis, Michael          : 524 points
 269  | 3     | Edwards, Kirk           : 524 points
 269  | 5     | Jackson, Korey          : 524 points
 269  | 3     | Paulus, Martha          : 524 points
 270  | 3     | McClintock, Aaron       : 525 points
-270  |       | Robinson, Danny         : 525 points
+270  | SS    | Robinson, Danny         : 525 points
 270  | 1     | Townsend, Reny          : 525 points
 270  | 3/4/5 | Whitelaw, Aidan         : 525 points
-270  |       | Whitworth, Eric         : 525 points
+270  | SS    | Whitworth, Eric         : 525 points
 270  | 3     | Widlund, Mark           : 525 points
-271  |       | Carmichael, Liam        : 526 points
+271  | SS    | Carmichael, Liam        : 526 points
 271  | 5     | Condon, John            : 526 points
 271  | 5     | Hampton, Kat            : 526 points
 271  | 3     | Rae, Shon               : 526 points
-271  |       | Vander Stoep, Cameron   : 526 points
+271  | SS    | Vander Stoep, Cameron   : 526 points
 272  | 3     | Alvarez, Jennie         : 527 points
 272  | 2     | Bieri, Rebeccah         : 527 points
-272  |       | Gabrielli, Sean         : 527 points
+272  | SS    | Gabrielli, Sean         : 527 points
 272  | 5     | Lodwick, Erin           : 527 points
 272  | 3     | Major, Marie            : 527 points
 272  | 1     | McDonagh, Thomas        : 527 points
-272  |       | Oros, Antonio           : 527 points
+272  | SS    | Oros, Antonio           : 527 points
 272  | 2     | Robinson, Kim           : 527 points
-272  |       | Schwoebel, Mike         : 527 points
-273  |       | Manville, Juston        : 528 points
+272  | SS    | Schwoebel, Mike         : 527 points
+273  | SS    | Manville, Juston        : 528 points
 273  | 3     | Swan, Sam               : 528 points
-273  |       | Walker, Daniel          : 528 points
+273  | SS    | Walker, Daniel          : 528 points
 273  | 4     | Walker, Wendell         : 528 points
 274  | 4     | Boyles, Brett           : 529 points
-274  |       | McManus, Tucker         : 529 points
-274  |       | Rhodes, Greg            : 529 points
-275  |       | Baltazar, Ben           : 530 points
+274  | SS    | McManus, Tucker         : 529 points
+274  | SS    | Rhodes, Greg            : 529 points
+275  | SS    | Baltazar, Ben           : 530 points
 275  | 3     | Britt, R                : 530 points
 275  | 1     | Haidet, Sean            : 530 points
 275  | 3/4/5 | Lehman, Luke            : 530 points
-275  |       | Lemieux, Patrick        : 530 points
+275  | SS    | Lemieux, Patrick        : 530 points
 275  | 3     | Rice, Becky             : 530 points
 275  | 2/3   | Robinson, Callah        : 530 points
-275  |       | Wong, Lance             : 530 points
+275  | SS    | Wong, Lance             : 530 points
 276  | 1     | Abero, Andrio           : 531 points
-276  |       | Dessinger, Brian        : 531 points
+276  | SS    | Dessinger, Brian        : 531 points
 276  | 5     | Guenther, Julianna      : 531 points
 276  | 5     | Johnson, Seth           : 531 points
-276  |       | Manthey, Mike           : 531 points
+276  | SS    | Manthey, Mike           : 531 points
 276  | 2     | Martin, Joe             : 531 points
 276  | 2     | Renn, Suzy              : 531 points
 276  | 1     | Thompson, Ben           : 531 points
-276  |       | Werner, Elliot          : 531 points
-276  |       | Wick, Brent             : 531 points
+276  | SS    | Werner, Elliot          : 531 points
+276  | SS    | Wick, Brent             : 531 points
 276  | 4     | Zayas, Amanda Marie     : 531 points
-277  |       | Bennett, Dennis         : 532 points
-277  |       | Campbell, James         : 532 points
+277  | SS    | Bennett, Dennis         : 532 points
+277  | SS    | Campbell, James         : 532 points
 277  | 5     | Joseph, Darin           : 532 points
 277  | 3     | Onusko, Justin          : 532 points
 277  | 5     | Owens, Tollman          : 532 points
 277  | 1/2   | Rogers, Bruce           : 532 points
-277  |       | Younkin, Ryan           : 532 points
+277  | SS    | Younkin, Ryan           : 532 points
 278  | 4     | Bierwirth, Bryce        : 533 points
 278  | 3     | Birky, Eric             : 533 points
-278  |       | Cotton, Ryan            : 533 points
-278  |       | Guiney, Daniel          : 533 points
+278  | SS    | Cotton, Ryan            : 533 points
+278  | SS    | Guiney, Daniel          : 533 points
 278  | 2     | Newlands, Peter         : 533 points
 278  | 3     | Snyder, Josh            : 533 points
-278  |       | Thompson, Ashley        : 533 points
+278  | SS    | Thompson, Ashley        : 533 points
 279  | 4     | Abel, Amanda            : 534 points
-279  |       | Bohling, Brandon        : 534 points
+279  | SS    | Bohling, Brandon        : 534 points
 279  | 5     | Byrd, Cage              : 534 points
 279  | 3     | Gobershock, Josh        : 534 points
 279  | 1/2   | Jhonston, Joshua        : 534 points
-279  |       | Myers, Charley          : 534 points
-279  |       | Porter, Robert          : 534 points
-279  |       | Smith, Brian            : 534 points
+279  | SS    | Myers, Charley          : 534 points
+279  | SS    | Porter, Robert          : 534 points
+279  | SS    | Smith, Brian            : 534 points
 279  | 3/4/5 | Weathers, Ryan          : 534 points
 279  | 3     | Wertzberger, Paul       : 534 points
 280  | 3/4/5 | Doden, Zoe              : 535 points
 280  | 1/2   | Fusaro, Michael         : 535 points
 280  | 5     | Miller, Bayen           : 535 points
 280  | 3     | Ransom, Nia             : 535 points
-280  |       | Tervo, James            : 535 points
+280  | SS    | Tervo, James            : 535 points
 280  | 5     | Warhus, ML              : 535 points
 281  | 2     | Berg, Kyle              : 536 points
-281  |       | Christensen, Jeff       : 536 points
-281  |       | Culp, Emmett            : 536 points
+281  | SS    | Christensen, Jeff       : 536 points
+281  | SS    | Culp, Emmett            : 536 points
 281  | 3     | Faulds, Jordan          : 536 points
 281  | 5     | Keske, Stephanie        : 536 points
 281  | 4     | Meyer, Joel             : 536 points
-281  |       | Potter, Dylan           : 536 points
+281  | SS    | Potter, Dylan           : 536 points
 281  | 2     | Power, Travis           : 536 points
 281  | 3     | Stapleton, Chris        : 536 points
-281  |       | Tongier, Cameron        : 536 points
-281  |       | Weiss, Timber           : 536 points
+281  | SS    | Tongier, Cameron        : 536 points
+281  | SS    | Weiss, Timber           : 536 points
 282  | 1     | Burton, Alexandra       : 537 points
 282  | 3     | Hariharan, Sid          : 537 points
-282  |       | Pedersen, Lars          : 537 points
+282  | SS    | Pedersen, Lars          : 537 points
 282  | 3     | Stroup, Sean            : 537 points
 283  | 5     | Bogle, Brian            : 538 points
-283  |       | Bradley, Peter          : 538 points
-283  |       | Eves, Chris             : 538 points
+283  | SS    | Bradley, Peter          : 538 points
+283  | SS    | Eves, Chris             : 538 points
 283  | 3     | Green, Neil             : 538 points
-283  |       | Johnson, Scott          : 538 points
-283  |       | MacKenzie, Evan         : 538 points
-283  |       | McFadden, Oliver        : 538 points
+283  | SS    | Johnson, Scott          : 538 points
+283  | SS    | MacKenzie, Evan         : 538 points
+283  | SS    | McFadden, Oliver        : 538 points
 283  | 4     | Miller, Chapell         : 538 points
 283  | 5     | ramey, megan            : 538 points
 284  | 5     | Bianchini, Cindy        : 539 points
 284  | 5     | Davies, Zack            : 539 points
 284  | 3     | DeAmbrose, Craig        : 539 points
 284  | 2     | Irwin, Cooper           : 539 points
-284  |       | Martin, Christian       : 539 points
-284  |       | Rottenberg, Rebekah     : 539 points
-284  |       | Sperry, Matthew         : 539 points
-284  |       | STONER, CHRISTOPHER     : 539 points
-285  |       | Billowitz, Rodney       : 540 points
+284  | SS    | Martin, Christian       : 539 points
+284  | SS    | Rottenberg, Rebekah     : 539 points
+284  | SS    | Sperry, Matthew         : 539 points
+284  | SS    | STONER, CHRISTOPHER     : 539 points
+285  | SS    | Billowitz, Rodney       : 540 points
 285  | 2     | Carson, Kelsey          : 540 points
-285  |       | Fletcher, Sean          : 540 points
+285  | SS    | Fletcher, Sean          : 540 points
 285  | 5     | Higgins, Jacinta        : 540 points
 285  | 4     | Lipchick, Mark          : 540 points
 285  | 5     | Wilson, Elizabeth       : 540 points
-286  |       | Aquino, Tyler           : 541 points
-286  |       | Burggraff, Beau         : 541 points
+286  | SS    | Aquino, Tyler           : 541 points
+286  | SS    | Burggraff, Beau         : 541 points
 286  | 2     | Goodall, Tim            : 541 points
-286  |       | Hendrickson, Chadd      : 541 points
+286  | SS    | Hendrickson, Chadd      : 541 points
 286  | 4     | Smith, David            : 541 points
 286  | 4     | Swanson, Ben            : 541 points
-286  |       | Wick, Alex              : 541 points
-287  |       | Carter, Craig           : 542 points
+286  | SS    | Wick, Alex              : 541 points
+287  | SS    | Carter, Craig           : 542 points
 287  | 3     | Luther, Hilary          : 542 points
 287  | 5     | Taylor, Anja            : 542 points
 288  | 3     | Chancellor, Colter      : 543 points
-288  |       | Chapman, Peter          : 543 points
-288  |       | Gallagher, Ryan         : 543 points
+288  | SS    | Chapman, Peter          : 543 points
+288  | SS    | Gallagher, Ryan         : 543 points
 288  | 5     | Hargand, Sari           : 543 points
-288  |       | Hogan, Richard          : 543 points
+288  | SS    | Hogan, Richard          : 543 points
 288  | 2     | Lloyd, Monica           : 543 points
 288  | 3     | Ohlhaber, Steven        : 543 points
 288  | 3     | Prause, Elaine          : 543 points
-289  |       | Accetta, Alex           : 544 points
+289  | SS    | Accetta, Alex           : 544 points
 289  | 3/4/5 | Bailly, Genevieve       : 544 points
 289  | 3     | Desnarges, Yannick      : 544 points
-289  |       | Estes, Mike             : 544 points
+289  | SS    | Estes, Mike             : 544 points
 289  | 4     | Smith, Diane            : 544 points
 289  | 4     | Spofford, Tom           : 544 points
-289  |       | Thomason, Alan          : 544 points
+289  | SS    | Thomason, Alan          : 544 points
 289  | 3/4/5 | Walker, Sammy           : 544 points
-290  |       | Barnes, Drexell         : 545 points
+290  | SS    | Barnes, Drexell         : 545 points
 290  | 1     | Henry, Mike             : 545 points
-290  |       | Kirby, Stephen          : 545 points
+290  | SS    | Kirby, Stephen          : 545 points
 290  | 4     | McClure, Hayley         : 545 points
-290  |       | Mills, Fred             : 545 points
+290  | SS    | Mills, Fred             : 545 points
 290  | 4/5   | Reitan, David           : 545 points
 290  | 2     | Rodde, Chris            : 545 points
 290  | 3     | Rogers, Trig            : 545 points
 290  | 5     | Smith, Ryan             : 545 points
 291  | 3     | Brown, Chris            : 546 points
-291  |       | Clay, Ryan              : 546 points
-291  |       | Cross, Lorne            : 546 points
+291  | SS    | Clay, Ryan              : 546 points
+291  | SS    | Cross, Lorne            : 546 points
 291  | 4     | Croswhite, Jeremiah     : 546 points
 291  | 3     | Daniels, Seth           : 546 points
 291  | 4     | DeBruler, Lee           : 546 points
 291  | 3     | Friedrich, Christopher  : 546 points
 291  | 2     | Hammer, Erik            : 546 points
 291  | 4     | Klaas, Lucas            : 546 points
-291  |       | Lenth, Tom              : 546 points
+291  | SS    | Lenth, Tom              : 546 points
 291  | 4     | McGehee, Michael        : 546 points
-291  |       | Miller, Jacob           : 546 points
-291  |       | Rockwood, Spencer       : 546 points
+291  | SS    | Miller, Jacob           : 546 points
+291  | SS    | Rockwood, Spencer       : 546 points
 291  | 4     | Wood, Rachel            : 546 points
 291  | 3     | Wright, Edward          : 546 points
 292  | 5     | Benning, Quinlyn        : 547 points
-292  |       | Chamberlin, Mike        : 547 points
+292  | SS    | Chamberlin, Mike        : 547 points
 292  | 5     | Chapin, Jeri            : 547 points
 292  | 3/4   | DiPaoli, Lisa           : 547 points
 292  | 3     | Harrison, Craig         : 547 points
-292  |       | Kieffer, Samuel         : 547 points
+292  | SS    | Kieffer, Samuel         : 547 points
 292  | 5     | Mickleberry, Noel       : 547 points
 292  | 3     | Mobbs, Fay              : 547 points
-292  |       | Nary, Calvin            : 547 points
+292  | SS    | Nary, Calvin            : 547 points
 292  | 1/2   | Rowntree, Isla          : 547 points
 292  | 5     | Ward, Kelsey            : 547 points
 293  | 1/2   | Audrain, Ivy            : 548 points
-293  |       | Case, Felicity          : 548 points
+293  | SS    | Case, Felicity          : 548 points
 293  | 5     | Cowling, Shellie        : 548 points
-293  |       | Edwards, Greg           : 548 points
+293  | SS    | Edwards, Greg           : 548 points
 293  | 2     | Geiter, Rachel          : 548 points
-293  |       | Haverty, Luca           : 548 points
-293  |       | Martin, Michael         : 548 points
+293  | SS    | Haverty, Luca           : 548 points
+293  | SS    | Martin, Michael         : 548 points
 293  | 3/4/5 | Turner, Greyson         : 548 points
 293  | 5     | Wicker, Benjamin        : 548 points
 294  | 4     | Brecht, Doug            : 549 points
 294  | 3     | Conklin, Zac            : 549 points
-294  |       | King, Robby             : 549 points
-294  |       | Leavitt, Keith          : 549 points
+294  | SS    | King, Robby             : 549 points
+294  | SS    | Leavitt, Keith          : 549 points
 294  | 3     | Leedy, Jerome           : 549 points
 294  | 3     | Lewis, Kathryn          : 549 points
 294  | 1/2   | Madrone, Joel           : 549 points
-294  |       | Mertz, Steve            : 549 points
-294  |       | Olson, Mike             : 549 points
+294  | SS    | Mertz, Steve            : 549 points
+294  | SS    | Olson, Mike             : 549 points
 294  | 3     | Wolf, Rich              : 549 points
 295  | 2     | Carline, Sean A         : 550 points
-295  |       | Gar-Aouy, Cole          : 550 points
-295  |       | Hobrook, Garret         : 550 points
-295  |       | Korvala, Heath          : 550 points
-295  |       | Lulich, John            : 550 points
+295  | SS    | Gar-Aouy, Cole          : 550 points
+295  | SS    | Hobrook, Garret         : 550 points
+295  | SS    | Korvala, Heath          : 550 points
+295  | SS    | Lulich, John            : 550 points
 295  | 5     | Lyon, Baker             : 550 points
-295  |       | mcdonaugh, James        : 550 points
+295  | SS    | mcdonaugh, James        : 550 points
 295  | 3     | Micheletti, Daniel      : 550 points
 295  | 3     | Milan, Liesl            : 550 points
 295  | 4     | Ryan, Christopher       : 550 points
-295  |       | Sullivan, Patrick       : 550 points
+295  | SS    | Sullivan, Patrick       : 550 points
 295  | 5     | Umberhandt, Sarah       : 550 points
-295  |       | Vanwanning, Christopher : 550 points
+295  | SS    | Vanwanning, Christopher : 550 points
 296  | 1/2   | Broadman, Anythony      : 551 points
 296  | 5     | Butler, Chris           : 551 points
 296  | 4     | Hayward, Trevor         : 551 points
 296  | 2     | Kizziar, Ronald         : 551 points
-296  |       | Korvola, Heath          : 551 points
+296  | SS    | Korvola, Heath          : 551 points
 296  | 3     | Mallet, Matt            : 551 points
-296  |       | Marler, Michael         : 551 points
+296  | SS    | Marler, Michael         : 551 points
 296  | 4     | Rath, Scott             : 551 points
-296  |       | Sines, Ron              : 551 points
-296  |       | Sleutjes, Matt          : 551 points
-296  |       | Solana, Amy             : 551 points
-296  |       | Wescott, George         : 551 points
-297  |       | Allen, Beddome          : 552 points
+296  | SS    | Sines, Ron              : 551 points
+296  | SS    | Sleutjes, Matt          : 551 points
+296  | SS    | Solana, Amy             : 551 points
+296  | SS    | Wescott, George         : 551 points
+297  | SS    | Allen, Beddome          : 552 points
 297  | 4     | Antonishen, Michael     : 552 points
-297  |       | Barnes, Will            : 552 points
+297  | SS    | Barnes, Will            : 552 points
 297  | 3     | Even, Aaron             : 552 points
 297  | 2/3   | gar-aouy, bronwynn      : 552 points
 297  | 3     | Holden, Mark            : 552 points
-297  |       | King, Jamie             : 552 points
+297  | SS    | King, Jamie             : 552 points
 297  | 5     | Lane, Ross              : 552 points
 297  | 1/2   | Means, Patrick          : 552 points
 297  | 4     | Walker, Sam             : 552 points
 298  | 5     | Beebe, Willy            : 553 points
-298  |       | Campbell, Mike          : 553 points
-298  |       | Eglitis, Ian            : 553 points
-298  |       | Frye, Eric              : 553 points
+298  | SS    | Campbell, Mike          : 553 points
+298  | SS    | Eglitis, Ian            : 553 points
+298  | SS    | Frye, Eric              : 553 points
 298  | 4     | Harrison, Will          : 553 points
-298  |       | Meyer, Brian            : 553 points
+298  | SS    | Meyer, Brian            : 553 points
 298  | 5     | Meza, Eric              : 553 points
-298  |       | Sailors, David          : 553 points
+298  | SS    | Sailors, David          : 553 points
 298  | 4     | Sosebee, Geoff          : 553 points
 298  | 5     | Wilburn, Michael S      : 553 points
 298  | 5     | Wilson, Alex            : 553 points
 299  | 3     | Blackmore, Greg         : 554 points
 299  | 3/4/5 | Fies, Mitchell          : 554 points
-299  |       | Halladay, Evan          : 554 points
+299  | SS    | Halladay, Evan          : 554 points
 299  | 2     | Heron, Carly            : 554 points
 299  | 3/4/5 | Lopez, Laura            : 554 points
-299  |       | Maslow, Jeff            : 554 points
+299  | SS    | Maslow, Jeff            : 554 points
 299  | 2     | Monteleone, Anthony     : 554 points
-299  |       | Morgan, Thomas          : 554 points
-299  |       | Morgenson, Russ         : 554 points
-299  |       | Myers, Bill             : 554 points
+299  | SS    | Morgan, Thomas          : 554 points
+299  | SS    | Morgenson, Russ         : 554 points
+299  | SS    | Myers, Bill             : 554 points
 299  | 5     | Pfiffer, Quinlan        : 554 points
 299  | 4     | Selander, Allyson       : 554 points
-299  |       | Standish, Zachary       : 554 points
-299  |       | Trefry, Kyle            : 554 points
+299  | SS    | Standish, Zachary       : 554 points
+299  | SS    | Trefry, Kyle            : 554 points
 299  | 4     | Westhaver, Brian        : 554 points
-299  |       | Wolf, John              : 554 points
+299  | SS    | Wolf, John              : 554 points
 300  | 5     | Benefield, Miles        : 555 points
 300  | 4     | Carrico, Brian          : 555 points
 300  | 1/2   | McNair, Abra            : 555 points
 300  | 5     | McReynolds, Derek       : 555 points
-300  |       | Oiotto, Scott           : 555 points
+300  | SS    | Oiotto, Scott           : 555 points
 300  | 2     | Phillips, Kelsey        : 555 points
-300  |       | Smith, Samuel           : 555 points
-300  |       | Theisen, Dirk           : 555 points
+300  | SS    | Smith, Samuel           : 555 points
+300  | SS    | Theisen, Dirk           : 555 points
 300  | 3     | West, Joel              : 555 points
-301  |       | Bolinder, Johnny        : 556 points
-301  |       | Bonney, Spencer         : 556 points
+301  | SS    | Bolinder, Johnny        : 556 points
+301  | SS    | Bonney, Spencer         : 556 points
 301  | 5     | Cernuda, Andrea         : 556 points
 301  | 4     | Dahlstrom, Cori         : 556 points
 301  | 4     | Elton, Jeff             : 556 points
 301  | 3/4/5 | Gizinski, Connor        : 556 points
-301  |       | Holmberg, Stephen       : 556 points
-301  |       | Peterson, David         : 556 points
-301  |       | Van Tilburg, Christopher: 556 points
+301  | SS    | Holmberg, Stephen       : 556 points
+301  | SS    | Peterson, David         : 556 points
+301  | SS    | Van Tilburg, Christopher: 556 points
 302  | 5     | Chenoweth, Caitlin      : 557 points
-302  |       | Corkran, Sophia         : 557 points
+302  | SS    | Corkran, Sophia         : 557 points
 302  | 2     | Greene, Marshall        : 557 points
 302  | 3     | Kobobel, Josh           : 557 points
-302  |       | Leuenhagen, Nicholas    : 557 points
-302  |       | Meeker, Troy            : 557 points
+302  | SS    | Leuenhagen, Nicholas    : 557 points
+302  | SS    | Meeker, Troy            : 557 points
 302  | 4/5   | Pardi, Andrew           : 557 points
-302  |       | Rabbit, Tea             : 557 points
-302  |       | Reynolds, Danielle      : 557 points
-302  |       | Roerig, Jordan          : 557 points
+302  | SS    | Rabbit, Tea             : 557 points
+302  | SS    | Reynolds, Danielle      : 557 points
+302  | SS    | Roerig, Jordan          : 557 points
 302  | 1/2   | Rowan, Colin            : 557 points
 302  | 4     | Salvey, Daniel          : 557 points
-302  |       | Westerfield, Summer     : 557 points
-302  |       | Wong, Ethan             : 557 points
-303  |       | Alvarez, Devon          : 558 points
+302  | SS    | Westerfield, Summer     : 557 points
+302  | SS    | Wong, Ethan             : 557 points
+303  | SS    | Alvarez, Devon          : 558 points
 303  | 2     | Artner, Adam            : 558 points
-303  |       | Babb, Jordan            : 558 points
+303  | SS    | Babb, Jordan            : 558 points
 303  | 2     | Bigsby, Cassidy         : 558 points
-303  |       | Bird, Tom               : 558 points
-303  |       | Bowen, Tanner           : 558 points
+303  | SS    | Bird, Tom               : 558 points
+303  | SS    | Bowen, Tanner           : 558 points
 303  | 5     | Engelking, Gwynne       : 558 points
 303  | 1/2   | Grandjean, Susan        : 558 points
 303  | 4     | Hartley, Chad           : 558 points
-303  |       | Hill, Jacob             : 558 points
+303  | SS    | Hill, Jacob             : 558 points
 303  | 3     | Lingwood, Jenna         : 558 points
 303  | 3     | Peck, Christina         : 558 points
-303  |       | Rick, David             : 558 points
+303  | SS    | Rick, David             : 558 points
 303  | 3     | Rishel, Jay             : 558 points
 303  | 4     | Soulinthone, Souk       : 558 points
-303  |       | Spranger, Joe           : 558 points
+303  | SS    | Spranger, Joe           : 558 points
 303  | 4     | Thuren, Don             : 558 points
-303  |       | Tonkin, Gus             : 558 points
-303  |       | Trumbull, Jack          : 558 points
+303  | SS    | Tonkin, Gus             : 558 points
+303  | SS    | Trumbull, Jack          : 558 points
 304  | 3     | Carlson, Leslie         : 559 points
 304  | 3     | Churchill, Scott        : 559 points
 304  | 3/4/5 | Edwards, Paige          : 559 points
-304  |       | Grimm, Christy          : 559 points
-304  |       | Harrison, Liam          : 559 points
-304  |       | Henderson, Heather      : 559 points
+304  | SS    | Grimm, Christy          : 559 points
+304  | SS    | Harrison, Liam          : 559 points
+304  | SS    | Henderson, Heather      : 559 points
 304  | 4     | Jago, Tyler             : 559 points
 304  | 2     | Jorgenson, Nicole       : 559 points
 304  | 3     | Kim, Gary               : 559 points
@@ -1217,9 +1218,9 @@
 304  | 4     | Pfannmuller, Kloe       : 559 points
 304  | 3     | Ramsey, Michaela        : 559 points
 304  | 5     | Read, Trey              : 559 points
-304  |       | Rosenbaum, Jake         : 559 points
-304  |       | Sabol, Nathan           : 559 points
-304  |       | Schneider, Jed          : 559 points
+304  | SS    | Rosenbaum, Jake         : 559 points
+304  | SS    | Sabol, Nathan           : 559 points
+304  | SS    | Schneider, Jed          : 559 points
 304  | 4     | Smith, Erin             : 559 points
 304  | 3     | Taylor, Mike            : 559 points
 304  | 4/5   | Thomas, Jeff            : 559 points
@@ -1228,1164 +1229,1164 @@
 304  | 4     | Wood, Dylan C           : 559 points
 305  | 1/2   | Bene, Mike              : 560 points
 305  | 3     | Biedrzycki, Mark        : 560 points
-305  |       | Craft, John             : 560 points
-305  |       | Erdenberger, Max        : 560 points
-305  |       | Fox, Clay               : 560 points
-305  |       | Marcotte, Robert        : 560 points
+305  | SS    | Craft, John             : 560 points
+305  | SS    | Erdenberger, Max        : 560 points
+305  | SS    | Fox, Clay               : 560 points
+305  | SS    | Marcotte, Robert        : 560 points
 305  | 4     | Meyer, Nate             : 560 points
-305  |       | Rupe, Tyler             : 560 points
+305  | SS    | Rupe, Tyler             : 560 points
 305  | 3     | Taylor, Justin          : 560 points
 305  | 4     | Vicencio, Maria         : 560 points
 305  | 3     | Vinson, Jonathan        : 560 points
 305  | 3     | Vlasak, Jon             : 560 points
 305  | 5     | Yumang, Marika          : 560 points
 306  | 4     | Bathke, Chris           : 561 points
-306  |       | Craven, Jeff            : 561 points
-306  |       | DeDionisio, David       : 561 points
-306  |       | Ho, Evan                : 561 points
+306  | SS    | Craven, Jeff            : 561 points
+306  | SS    | DeDionisio, David       : 561 points
+306  | SS    | Ho, Evan                : 561 points
 306  | 5     | Jordan, Joshua          : 561 points
 306  | 2     | Lehnert, Gabrielle      : 561 points
-306  |       | Linford, Jake           : 561 points
-306  |       | McElwaine, Euan         : 561 points
+306  | SS    | Linford, Jake           : 561 points
+306  | SS    | McElwaine, Euan         : 561 points
 306  | 2     | Muhs, Christopher       : 561 points
 306  | 3/4/5 | Robinson, Keaghlan      : 561 points
-306  |       | Rousseau, Thomas        : 561 points
+306  | SS    | Rousseau, Thomas        : 561 points
 306  | 4     | Shepard, Dwan           : 561 points
-306  |       | Spaminato, Joseph       : 561 points
-306  |       | Train, Bodjie           : 561 points
-306  |       | Welsch, Alden           : 561 points
-307  |       | Beer, Jason             : 562 points
+306  | SS    | Spaminato, Joseph       : 561 points
+306  | SS    | Train, Bodjie           : 561 points
+306  | SS    | Welsch, Alden           : 561 points
+307  | SS    | Beer, Jason             : 562 points
 307  | 3     | Chaplain, Edward (Ted)  : 562 points
-307  |       | Loscutoff, Andrew       : 562 points
-307  |       | Neilson, Erik           : 562 points
+307  | SS    | Loscutoff, Andrew       : 562 points
+307  | SS    | Neilson, Erik           : 562 points
 307  | 5     | peterson, luce          : 562 points
-307  |       | Stavro, Cristina        : 562 points
-307  |       | Sweeten, Dennis         : 562 points
-307  |       | Taggart, Branden        : 562 points
-308  |       | Bauer, Emi              : 563 points
-308  |       | Cherry, Chris           : 563 points
+307  | SS    | Stavro, Cristina        : 562 points
+307  | SS    | Sweeten, Dennis         : 562 points
+307  | SS    | Taggart, Branden        : 562 points
+308  | SS    | Bauer, Emi              : 563 points
+308  | SS    | Cherry, Chris           : 563 points
 308  | 2     | Garcia, William         : 563 points
-308  |       | Gold, Mitch             : 563 points
-308  |       | Johnson, Jeremy         : 563 points
-308  |       | McCarthy, Christopher   : 563 points
+308  | SS    | Gold, Mitch             : 563 points
+308  | SS    | Johnson, Jeremy         : 563 points
+308  | SS    | McCarthy, Christopher   : 563 points
 308  | 4     | Pearson, Shawna         : 563 points
 308  | 5     | Ramakiers, Stacy        : 563 points
-308  |       | Tickner, Ben            : 563 points
-308  |       | Walker, Mel             : 563 points
+308  | SS    | Tickner, Ben            : 563 points
+308  | SS    | Walker, Mel             : 563 points
 308  | 2     | Wilson, Ian             : 563 points
 308  | 4     | Winter, Jericho         : 563 points
-309  |       | Avery, Phil             : 564 points
+309  | SS    | Avery, Phil             : 564 points
 309  | 4     | Coleman, Scott          : 564 points
 309  | 3     | Hayden, Rolland         : 564 points
-309  |       | Kline, Matt             : 564 points
-309  |       | Mason, Luke             : 564 points
-309  |       | Pikart, Thomas          : 564 points
-310  |       | Bankead, Richard        : 565 points
-310  |       | Barlow, Paul            : 565 points
+309  | SS    | Kline, Matt             : 564 points
+309  | SS    | Mason, Luke             : 564 points
+309  | SS    | Pikart, Thomas          : 564 points
+310  | SS    | Bankead, Richard        : 565 points
+310  | SS    | Barlow, Paul            : 565 points
 310  | 4     | Burles, Sean            : 565 points
-310  |       | Cameron, Rachel         : 565 points
+310  | SS    | Cameron, Rachel         : 565 points
 310  | 2     | DeGraff, Joshua         : 565 points
-310  |       | Feldman, Devin          : 565 points
+310  | SS    | Feldman, Devin          : 565 points
 310  | 5     | Hockett, Will           : 565 points
-310  |       | Johnson, Noel           : 565 points
-310  |       | Nelson, Frank           : 565 points
-310  |       | Petresen, Lars          : 565 points
+310  | SS    | Johnson, Noel           : 565 points
+310  | SS    | Nelson, Frank           : 565 points
+310  | SS    | Petresen, Lars          : 565 points
 310  | 3/4/5 | Royce, Emma             : 565 points
 310  | 5     | Sardell, Shannon        : 565 points
-310  |       | Smith, Bryan            : 565 points
-310  |       | Wiant, Phillip          : 565 points
-310  |       | Witt, Greg              : 565 points
+310  | SS    | Smith, Bryan            : 565 points
+310  | SS    | Wiant, Phillip          : 565 points
+310  | SS    | Witt, Greg              : 565 points
 310  | 3     | Wolfe, Patti            : 565 points
-310  |       | Wuepper, Reed           : 565 points
-311  |       | Bagshaw, Ian            : 566 points
-311  |       | Bulow, Morten           : 566 points
+310  | SS    | Wuepper, Reed           : 565 points
+311  | SS    | Bagshaw, Ian            : 566 points
+311  | SS    | Bulow, Morten           : 566 points
 311  | 5     | Gifford, Eva            : 566 points
-311  |       | Holbert, Landon         : 566 points
+311  | SS    | Holbert, Landon         : 566 points
 311  | 1/2   | Howard, Graham          : 566 points
 311  | 5     | Jarolimek, Andrew       : 566 points
-311  |       | Newcomb, Jonathan       : 566 points
-311  |       | Nilan, Tom              : 566 points
+311  | SS    | Newcomb, Jonathan       : 566 points
+311  | SS    | Nilan, Tom              : 566 points
 311  | 5     | Smith, Anthony T.       : 566 points
-312  |       | Aldersebaes, Dave       : 567 points
+312  | SS    | Aldersebaes, Dave       : 567 points
 312  | 5     | Holmes, Lindsay         : 567 points
 312  | 4/5   | Marean, Ben             : 567 points
 312  | 5     | Nelson, Philip          : 567 points
-312  |       | Nicholas, Adam          : 567 points
+312  | SS    | Nicholas, Adam          : 567 points
 312  | 4     | Owen, Kristina          : 567 points
-312  |       | Singleton, Jason        : 567 points
-312  |       | Wimberly, Jonathan      : 567 points
+312  | SS    | Singleton, Jason        : 567 points
+312  | SS    | Wimberly, Jonathan      : 567 points
 313  | 2     | Bradley, Mark           : 568 points
 313  | 2     | Corey, Sean             : 568 points
-313  |       | Draskovic, John         : 568 points
-313  |       | Hendricks, Nicole       : 568 points
-313  |       | Lydamore, Kaya          : 568 points
+313  | SS    | Draskovic, John         : 568 points
+313  | SS    | Hendricks, Nicole       : 568 points
+313  | SS    | Lydamore, Kaya          : 568 points
 313  | 5     | Miller, Blaine          : 568 points
-313  |       | Sloane, Bethany         : 568 points
-313  |       | Striley, Doug           : 568 points
+313  | SS    | Sloane, Bethany         : 568 points
+313  | SS    | Striley, Doug           : 568 points
 313  | 3     | Vander Haegen, Geraldine: 568 points
-313  |       | Yates, Justin           : 568 points
-314  |       | Boxberger, David        : 569 points
-314  |       | Bussey, Joshua          : 569 points
+313  | SS    | Yates, Justin           : 568 points
+314  | SS    | Boxberger, David        : 569 points
+314  | SS    | Bussey, Joshua          : 569 points
 314  | 4     | Claggett, Kevin         : 569 points
 314  | 5     | enderle, mitch          : 569 points
 314  | 3     | Martin, Kathleen        : 569 points
-314  |       | Reid, Josh              : 569 points
-314  |       | Smith, Brian            : 569 points
+314  | SS    | Reid, Josh              : 569 points
+314  | SS    | Smith, Brian            : 569 points
 314  | 4     | Stoller, Mark           : 569 points
 314  | 1/2   | Winn, Brad              : 569 points
-315  |       | Abel, Henry             : 570 points
-315  |       | boehnke, michael        : 570 points
-315  |       | Bond-Welch, Oliver      : 570 points
+315  | SS    | Abel, Henry             : 570 points
+315  | SS    | boehnke, michael        : 570 points
+315  | SS    | Bond-Welch, Oliver      : 570 points
 315  | 3     | Butler, Ryan            : 570 points
-315  |       | Crosby, Ryan            : 570 points
-315  |       | Daniels, Chase          : 570 points
-315  |       | Emerson, Mike           : 570 points
+315  | SS    | Crosby, Ryan            : 570 points
+315  | SS    | Daniels, Chase          : 570 points
+315  | SS    | Emerson, Mike           : 570 points
 315  | 5     | Greene, Kaitlin         : 570 points
-315  |       | Lanners, Hans           : 570 points
-315  |       | Morgenson, Tyler        : 570 points
+315  | SS    | Lanners, Hans           : 570 points
+315  | SS    | Morgenson, Tyler        : 570 points
 315  | 5     | Morrow, Christopher     : 570 points
 315  | 1/2   | nelson, jon             : 570 points
-315  |       | Rose, Grayson           : 570 points
-315  |       | Sippel, Tim             : 570 points
+315  | SS    | Rose, Grayson           : 570 points
+315  | SS    | Sippel, Tim             : 570 points
 315  | 4     | Smith, Oliver           : 570 points
-315  |       | Souders, Orion          : 570 points
-315  |       | Vander Laan, Dirk       : 570 points
+315  | SS    | Souders, Orion          : 570 points
+315  | SS    | Vander Laan, Dirk       : 570 points
 315  | 2     | Wilhite, Josh           : 570 points
-315  |       | Wilkey, Chris           : 570 points
+315  | SS    | Wilkey, Chris           : 570 points
 316  | 3/4/5 | DiGiorgio, Michael      : 571 points
-316  |       | Gearhart, Jason         : 571 points
-316  |       | Gohman, Gregory         : 571 points
-316  |       | Morris, Joshua          : 571 points
-316  |       | Page, Michael           : 571 points
-316  |       | Rodarte, Nathan         : 571 points
+316  | SS    | Gearhart, Jason         : 571 points
+316  | SS    | Gohman, Gregory         : 571 points
+316  | SS    | Morris, Joshua          : 571 points
+316  | SS    | Page, Michael           : 571 points
+316  | SS    | Rodarte, Nathan         : 571 points
 316  | 2     | Sampson, Mckenzie       : 571 points
 316  | 2     | Skrzynski, Mary         : 571 points
 316  | 3     | Stafford, Dennis        : 571 points
 316  | 5     | Stevens, Chase          : 571 points
 316  | 3     | Stewart, Andrew         : 571 points
 316  | 4     | Thomas, Leslie          : 571 points
-316  |       | Tombelson, Dustin       : 571 points
-316  |       | Turner, AJ              : 571 points
+316  | SS    | Tombelson, Dustin       : 571 points
+316  | SS    | Turner, AJ              : 571 points
 316  | 4/5   | Villiger, Nathan        : 571 points
 316  | 3     | Winkler, Gabe           : 571 points
-316  |       | Zitkovich, Vincent      : 571 points
-317  |       | Armesto, Stephanie      : 572 points
+316  | SS    | Zitkovich, Vincent      : 571 points
+317  | SS    | Armesto, Stephanie      : 572 points
 317  | 5     | Bailey, Zoey            : 572 points
-317  |       | Beard, Alexandria       : 572 points
+317  | SS    | Beard, Alexandria       : 572 points
 317  | 2     | Beko, Jeanne            : 572 points
 317  | 1/2   | Carroll, Adam           : 572 points
-317  |       | English, Rob            : 572 points
+317  | SS    | English, Rob            : 572 points
 317  | 3     | Frommelt, Jon           : 572 points
-317  |       | Hawes, Shea             : 572 points
-317  |       | Jennings, Thane         : 572 points
-317  |       | Kanter, Michael         : 572 points
+317  | SS    | Hawes, Shea             : 572 points
+317  | SS    | Jennings, Thane         : 572 points
+317  | SS    | Kanter, Michael         : 572 points
 317  | 5     | Kelly, Erin             : 572 points
-317  |       | Mattison, Brent         : 572 points
+317  | SS    | Mattison, Brent         : 572 points
 317  | 2     | Meeks, Andy             : 572 points
-317  |       | Metz, Michael           : 572 points
+317  | SS    | Metz, Michael           : 572 points
 317  | 4/5   | Reynolds, Jeff          : 572 points
-317  |       | Rychlik, Jennifer       : 572 points
-317  |       | Schartz, Sam            : 572 points
-317  |       | Spedini, Federico       : 572 points
+317  | SS    | Rychlik, Jennifer       : 572 points
+317  | SS    | Schartz, Sam            : 572 points
+317  | SS    | Spedini, Federico       : 572 points
 317  | 2     | Standish, Jeff          : 572 points
-317  |       | Sturges, Mark           : 572 points
-317  |       | Sunitsch, Zach          : 572 points
-317  |       | Wherity, Chris          : 572 points
+317  | SS    | Sturges, Mark           : 572 points
+317  | SS    | Sunitsch, Zach          : 572 points
+317  | SS    | Wherity, Chris          : 572 points
 318  | 2     | Blem, Chris             : 573 points
 318  | 2     | Boone, Andrew           : 573 points
-318  |       | Bussey, David           : 573 points
+318  | SS    | Bussey, David           : 573 points
 318  | 2     | Gould, Courtney         : 573 points
-318  |       | Harple, Todd            : 573 points
-318  |       | Haynie, Aidan           : 573 points
-318  |       | Hofeld, Daegan          : 573 points
-318  |       | Holmberg, Robert        : 573 points
+318  | SS    | Harple, Todd            : 573 points
+318  | SS    | Haynie, Aidan           : 573 points
+318  | SS    | Hofeld, Daegan          : 573 points
+318  | SS    | Holmberg, Robert        : 573 points
 318  | 3     | Johnston, Taylor        : 573 points
 318  | 4     | Larabee, Brett          : 573 points
-318  |       | Shays, Kai              : 573 points
-318  |       | Stoner, Destry          : 573 points
-318  |       | Weiler, Andrew          : 573 points
-319  |       | Artman, Chester         : 574 points
-319  |       | Gizinski, Greg          : 574 points
+318  | SS    | Shays, Kai              : 573 points
+318  | SS    | Stoner, Destry          : 573 points
+318  | SS    | Weiler, Andrew          : 573 points
+319  | SS    | Artman, Chester         : 574 points
+319  | SS    | Gizinski, Greg          : 574 points
 319  | 5     | Halpern, Melinda        : 574 points
 319  | 5     | Holdsworth, Emily       : 574 points
-319  |       | Holmes, Landon          : 574 points
-319  |       | Johnson, Issac          : 574 points
-319  |       | Loewenstein, Max        : 574 points
+319  | SS    | Holmes, Landon          : 574 points
+319  | SS    | Johnson, Issac          : 574 points
+319  | SS    | Loewenstein, Max        : 574 points
 319  | 2     | Mercer, Michelle        : 574 points
-319  |       | Palmer, Morgan          : 574 points
+319  | SS    | Palmer, Morgan          : 574 points
 319  | 2     | Reeves, Matt            : 574 points
-319  |       | Westerfield, Hunter     : 574 points
+319  | SS    | Westerfield, Hunter     : 574 points
 319  | 3     | Whitacre, Petra         : 574 points
-320  |       | Cossins, James          : 575 points
-320  |       | Gohmon, Gregory         : 575 points
-320  |       | Harris, Max             : 575 points
-320  |       | Hosek, Ian              : 575 points
-320  |       | Jackson, Tyler          : 575 points
+320  | SS    | Cossins, James          : 575 points
+320  | SS    | Gohmon, Gregory         : 575 points
+320  | SS    | Harris, Max             : 575 points
+320  | SS    | Hosek, Ian              : 575 points
+320  | SS    | Jackson, Tyler          : 575 points
 320  | 5     | Jacobson, Rebecca       : 575 points
 320  | 2     | Kingsley, Karla         : 575 points
-320  |       | Mallory, Gravity        : 575 points
-320  |       | McDonagh, James         : 575 points
-320  |       | Plummer, Riley          : 575 points
+320  | SS    | Mallory, Gravity        : 575 points
+320  | SS    | McDonagh, James         : 575 points
+320  | SS    | Plummer, Riley          : 575 points
 320  | 4     | Reeves, Heidi           : 575 points
-320  |       | Schiller, Brian         : 575 points
+320  | SS    | Schiller, Brian         : 575 points
 320  | 4     | Trost, Phillip M        : 575 points
 320  | 3/4/5 | Wickander, Chad         : 575 points
 320  | 3     | Wielenga, Brian         : 575 points
 320  | 1     | Wilson, Julie           : 575 points
 321  | 3     | Baxter, Andrew          : 576 points
-321  |       | Capdevila, Caterina     : 576 points
-321  |       | Cox, Zach               : 576 points
-321  |       | Erdenbender, Max        : 576 points
-321  |       | Freeman, Cullen         : 576 points
-321  |       | Glass, Stephen          : 576 points
-321  |       | Gruter, Jared           : 576 points
-321  |       | Hagenboom, Eric         : 576 points
-321  |       | Marcus, Riley           : 576 points
+321  | SS    | Capdevila, Caterina     : 576 points
+321  | SS    | Cox, Zach               : 576 points
+321  | SS    | Erdenbender, Max        : 576 points
+321  | SS    | Freeman, Cullen         : 576 points
+321  | SS    | Glass, Stephen          : 576 points
+321  | SS    | Gruter, Jared           : 576 points
+321  | SS    | Hagenboom, Eric         : 576 points
+321  | SS    | Marcus, Riley           : 576 points
 321  | 3     | Nelson, Andrew          : 576 points
 321  | 3     | Page, Chris             : 576 points
-321  |       | rodriguez, albert       : 576 points
-321  |       | Schoening, Joel         : 576 points
+321  | SS    | rodriguez, albert       : 576 points
+321  | SS    | Schoening, Joel         : 576 points
 321  | 5     | Sharpe, Trenna          : 576 points
 321  | 2     | Sher, Melissa           : 576 points
-321  |       | Snyder, Victoria        : 576 points
+321  | SS    | Snyder, Victoria        : 576 points
 321  | 4     | Sunderland, James       : 576 points
 321  | 3     | Tanler, Cory            : 576 points
-321  |       | tousignant, john        : 576 points
+321  | SS    | tousignant, john        : 576 points
 321  | 3     | Treacy, Brendan         : 576 points
-322  |       | Anderson, Parker        : 577 points
+322  | SS    | Anderson, Parker        : 577 points
 322  | 2     | Armstrong, Alana        : 577 points
 322  | 5     | Colley, Sky             : 577 points
-322  |       | Creswick, Gregory       : 577 points
-322  |       | Ely, Kim                : 577 points
+322  | SS    | Creswick, Gregory       : 577 points
+322  | SS    | Ely, Kim                : 577 points
 322  | 3     | Fennerl, Jurgen         : 577 points
-322  |       | Houghton, Danny         : 577 points
+322  | SS    | Houghton, Danny         : 577 points
 322  | 3     | Larson, Joe             : 577 points
-322  |       | Martin, Sarah           : 577 points
-322  |       | McCoy, Jonathan         : 577 points
+322  | SS    | Martin, Sarah           : 577 points
+322  | SS    | McCoy, Jonathan         : 577 points
 322  | 4     | Mensing, Erin           : 577 points
-322  |       | Mizee, Evelynn          : 577 points
-322  |       | Moseley, Megan          : 577 points
+322  | SS    | Mizee, Evelynn          : 577 points
+322  | SS    | Moseley, Megan          : 577 points
 322  | 4     | O'Gara, Kevin           : 577 points
-322  |       | Peale, James            : 577 points
-322  |       | Peck, Allison           : 577 points
+322  | SS    | Peale, James            : 577 points
+322  | SS    | Peck, Allison           : 577 points
 322  | 4     | Power, Kat              : 577 points
-322  |       | Resnick, Justin         : 577 points
-322  |       | Rice, Abby              : 577 points
-322  |       | Silvey, Zach            : 577 points
+322  | SS    | Resnick, Justin         : 577 points
+322  | SS    | Rice, Abby              : 577 points
+322  | SS    | Silvey, Zach            : 577 points
 322  | 3     | Smith, Ellene           : 577 points
-322  |       | Tong, Jacob             : 577 points
-323  |       | Carpenter, Troy         : 578 points
+322  | SS    | Tong, Jacob             : 577 points
+323  | SS    | Carpenter, Troy         : 578 points
 323  | 4     | Churchill, Alex         : 578 points
-323  |       | Craft, Jennifer         : 578 points
-323  |       | Funk, Mike              : 578 points
+323  | SS    | Craft, Jennifer         : 578 points
+323  | SS    | Funk, Mike              : 578 points
 323  | 3     | Galambos, Nita          : 578 points
 323  | 4     | Goldman, Alexander      : 578 points
-323  |       | Gullickson, Hayden      : 578 points
-323  |       | Hoile, Danny            : 578 points
-323  |       | Iverson, Peter          : 578 points
+323  | SS    | Gullickson, Hayden      : 578 points
+323  | SS    | Hoile, Danny            : 578 points
+323  | SS    | Iverson, Peter          : 578 points
 323  | 4     | Kennedy, Jeremy         : 578 points
-323  |       | Leritz, Coco            : 578 points
+323  | SS    | Leritz, Coco            : 578 points
 323  | 1     | Melkonian, Lora         : 578 points
-323  |       | Neilsen, Eric           : 578 points
+323  | SS    | Neilsen, Eric           : 578 points
 323  | 2     | Ott, Alan               : 578 points
 323  | 4     | Powers, Melissa         : 578 points
-323  |       | Ramey, Kyle             : 578 points
+323  | SS    | Ramey, Kyle             : 578 points
 323  | 3/4/5 | Sarrett, Karlee         : 578 points
 323  | 3     | Slater, Andrew          : 578 points
-323  |       | Stute, Nick             : 578 points
+323  | SS    | Stute, Nick             : 578 points
 323  | 5     | Williamson, Tom         : 578 points
-324  |       | Capalbo, Mark           : 579 points
+324  | SS    | Capalbo, Mark           : 579 points
 324  | 4     | Church, Jordan          : 579 points
 324  | 3     | Coombs, Jesse           : 579 points
-324  |       | DeWit, Joel             : 579 points
-324  |       | DuPlantis, Colin        : 579 points
+324  | SS    | DeWit, Joel             : 579 points
+324  | SS    | DuPlantis, Colin        : 579 points
 324  | 4/5   | Franek, Bridget         : 579 points
 324  | 4     | Gauntt, Bryan           : 579 points
 324  | 3     | Graves, James           : 579 points
 324  | 3     | Haffner, Sam            : 579 points
 324  | 4     | Horst, Megan            : 579 points
-324  |       | Jackson, Scott          : 579 points
-324  |       | Jones, Ryan             : 579 points
-324  |       | Kendrick, Mike          : 579 points
-324  |       | Kirkland, Phillip       : 579 points
+324  | SS    | Jackson, Scott          : 579 points
+324  | SS    | Jones, Ryan             : 579 points
+324  | SS    | Kendrick, Mike          : 579 points
+324  | SS    | Kirkland, Phillip       : 579 points
 324  | 5     | Merrill, Dawn           : 579 points
 324  | 4/5   | Merritt, Jonathan       : 579 points
-324  |       | Murez, James            : 579 points
-324  |       | P.S. McConnell, George P.S.: 579 points
-324  |       | Spranger, Kristina      : 579 points
+324  | SS    | Murez, James            : 579 points
+324  | SS    | P.S. McConnell, George P.S.: 579 points
+324  | SS    | Spranger, Kristina      : 579 points
 324  | 5     | Tarnow, Amy             : 579 points
 324  | 3     | Thomas, Drew            : 579 points
-324  |       | Wick, Zach              : 579 points
-325  |       | Arildson, Dan           : 580 points
-325  |       | Begus, Otto             : 580 points
+324  | SS    | Wick, Zach              : 579 points
+325  | SS    | Arildson, Dan           : 580 points
+325  | SS    | Begus, Otto             : 580 points
 325  | 1     | Brown, Brigette         : 580 points
 325  | 3     | Clark, Amber            : 580 points
-325  |       | Cordeiro, Matthew       : 580 points
-325  |       | cowan, david            : 580 points
+325  | SS    | Cordeiro, Matthew       : 580 points
+325  | SS    | cowan, david            : 580 points
 325  | 5     | Ford, Stephen           : 580 points
-325  |       | Friedman, Maxwell       : 580 points
+325  | SS    | Friedman, Maxwell       : 580 points
 325  | 5     | Furgerson, Brandt       : 580 points
-325  |       | Hagedorn, Hendrik       : 580 points
+325  | SS    | Hagedorn, Hendrik       : 580 points
 325  | 5     | Holloway, Sissel        : 580 points
-325  |       | Jarrell, Brennan        : 580 points
-325  |       | Martin, Mike            : 580 points
+325  | SS    | Jarrell, Brennan        : 580 points
+325  | SS    | Martin, Mike            : 580 points
 325  | 4     | Shaw, Natalie           : 580 points
 325  | 3     | Smith, Griffin          : 580 points
 325  | 5     | Steimer, Jessica        : 580 points
-326  |       | Brown, Luke             : 581 points
-326  |       | Carter, Scott           : 581 points
-326  |       | Cherry, Arah            : 581 points
-326  |       | Collins, Thayer         : 581 points
-326  |       | Crossman, Sadie         : 581 points
+326  | SS    | Brown, Luke             : 581 points
+326  | SS    | Carter, Scott           : 581 points
+326  | SS    | Cherry, Arah            : 581 points
+326  | SS    | Collins, Thayer         : 581 points
+326  | SS    | Crossman, Sadie         : 581 points
 326  | 3     | Davies, Laura           : 581 points
-326  |       | Glatte, Melyssa         : 581 points
+326  | SS    | Glatte, Melyssa         : 581 points
 326  | 3     | Harris, Mark            : 581 points
-326  |       | Johnson, Kendal         : 581 points
+326  | SS    | Johnson, Kendal         : 581 points
 326  | 2     | Kosanke, Dave           : 581 points
 326  | 5     | Kosanovic, Jared        : 581 points
-326  |       | Laverty, Ron            : 581 points
-326  |       | Lynch, Heather          : 581 points
+326  | SS    | Laverty, Ron            : 581 points
+326  | SS    | Lynch, Heather          : 581 points
 326  | 4     | Nelson, Chris           : 581 points
-326  |       | Nussbaumer, Valerie     : 581 points
-326  |       | Renshaw, Tiffany        : 581 points
+326  | SS    | Nussbaumer, Valerie     : 581 points
+326  | SS    | Renshaw, Tiffany        : 581 points
 326  | 2     | Schmitt, Sara           : 581 points
-326  |       | Secrist, An             : 581 points
-326  |       | Soontararak, Max        : 581 points
-326  |       | Steen, Beth             : 581 points
-326  |       | Taylor, Stephanie       : 581 points
+326  | SS    | Secrist, An             : 581 points
+326  | SS    | Soontararak, Max        : 581 points
+326  | SS    | Steen, Beth             : 581 points
+326  | SS    | Taylor, Stephanie       : 581 points
 326  | 2     | VanGorder Lasof, Cara   : 581 points
 326  | 3     | Wang, Eddie             : 581 points
 326  | 4     | Weber, Christine        : 581 points
-327  |       | Apostol, Simon          : 582 points
+327  | SS    | Apostol, Simon          : 582 points
 327  | 4     | Armstrong, Emma         : 582 points
 327  | 5     | Bassett, Palmer         : 582 points
-327  |       | Bellini, Fabio          : 582 points
-327  |       | Benziger, Peter         : 582 points
+327  | SS    | Bellini, Fabio          : 582 points
+327  | SS    | Benziger, Peter         : 582 points
 327  | 2     | Brault, Lori            : 582 points
-327  |       | Cortell, Adam           : 582 points
+327  | SS    | Cortell, Adam           : 582 points
 327  | 1/2   | Demoe, Luke             : 582 points
-327  |       | Donovn, Phil            : 582 points
-327  |       | Ellerbruch, Austin      : 582 points
-327  |       | Fitzpatrick, Chris      : 582 points
-327  |       | Hryciz, Gwen            : 582 points
-327  |       | Jones, Jeff             : 582 points
-327  |       | Lensen, Ean             : 582 points
+327  | SS    | Donovn, Phil            : 582 points
+327  | SS    | Ellerbruch, Austin      : 582 points
+327  | SS    | Fitzpatrick, Chris      : 582 points
+327  | SS    | Hryciz, Gwen            : 582 points
+327  | SS    | Jones, Jeff             : 582 points
+327  | SS    | Lensen, Ean             : 582 points
 327  | 3     | Lester, Jackson         : 582 points
-327  |       | Livingston, John        : 582 points
-327  |       | Love, Alan              : 582 points
-327  |       | Martin, Kerry           : 582 points
-327  |       | McFarland, Max          : 582 points
-327  |       | Palmer, Dale            : 582 points
+327  | SS    | Livingston, John        : 582 points
+327  | SS    | Love, Alan              : 582 points
+327  | SS    | Martin, Kerry           : 582 points
+327  | SS    | McFarland, Max          : 582 points
+327  | SS    | Palmer, Dale            : 582 points
 327  | 2     | Rabinowitz, Michael     : 582 points
-327  |       | Shiffman, Sam           : 582 points
-327  |       | Snow, Jeff              : 582 points
-327  |       | Stoller, Jakob          : 582 points
-327  |       | Thomas, Billy           : 582 points
+327  | SS    | Shiffman, Sam           : 582 points
+327  | SS    | Snow, Jeff              : 582 points
+327  | SS    | Stoller, Jakob          : 582 points
+327  | SS    | Thomas, Billy           : 582 points
 327  | 2     | VanTassel, Amy          : 582 points
-327  |       | Wescott, Cameron        : 582 points
-327  |       | Yoon, James             : 582 points
-328  |       | Carlin, Jamie           : 583 points
+327  | SS    | Wescott, Cameron        : 582 points
+327  | SS    | Yoon, James             : 582 points
+328  | SS    | Carlin, Jamie           : 583 points
 328  | 3     | Celtnieks, Kristopher   : 583 points
 328  | 1     | Cody, Thomas            : 583 points
 328  | 5     | Dailey, Patrick         : 583 points
 328  | 4     | Dusseau, Victoria       : 583 points
-328  |       | Dwyer, Brian            : 583 points
-328  |       | Emond, James            : 583 points
-328  |       | Frankel, Max            : 583 points
+328  | SS    | Dwyer, Brian            : 583 points
+328  | SS    | Emond, James            : 583 points
+328  | SS    | Frankel, Max            : 583 points
 328  | 4     | Futterman, Mollie       : 583 points
 328  | 5     | Halloway, Sissle        : 583 points
-328  |       | Hayes, Carl             : 583 points
-328  |       | Hollingsworth, Scott    : 583 points
-328  |       | Jaszkowiak, Matt        : 583 points
-328  |       | Koch, Nathan            : 583 points
-328  |       | McCaffrey, Maggie       : 583 points
-328  |       | McCraw, Chris           : 583 points
+328  | SS    | Hayes, Carl             : 583 points
+328  | SS    | Hollingsworth, Scott    : 583 points
+328  | SS    | Jaszkowiak, Matt        : 583 points
+328  | SS    | Koch, Nathan            : 583 points
+328  | SS    | McCaffrey, Maggie       : 583 points
+328  | SS    | McCraw, Chris           : 583 points
 328  | 4     | Phillips, Taylor        : 583 points
 328  | 3     | Rodriguez, Kate         : 583 points
-328  |       | Schmid, Johnny          : 583 points
-328  |       | Shaefer, Nathan         : 583 points
-328  |       | Smith-Simonsen, Julie Ann: 583 points
-328  |       | Wann, Archie            : 583 points
-328  |       | Wessel, Robin           : 583 points
-328  |       | Winchester, Noah        : 583 points
-329  |       | Brown, Justin           : 584 points
+328  | SS    | Schmid, Johnny          : 583 points
+328  | SS    | Shaefer, Nathan         : 583 points
+328  | SS    | Smith-Simonsen, Julie Ann: 583 points
+328  | SS    | Wann, Archie            : 583 points
+328  | SS    | Wessel, Robin           : 583 points
+328  | SS    | Winchester, Noah        : 583 points
+329  | SS    | Brown, Justin           : 584 points
 329  | 3     | Byzick, Neil            : 584 points
-329  |       | Chancellor, Coulter     : 584 points
-329  |       | Copenhaver, Robert      : 584 points
+329  | SS    | Chancellor, Coulter     : 584 points
+329  | SS    | Copenhaver, Robert      : 584 points
 329  | 4     | Hagedorn, Hau           : 584 points
-329  |       | Hammond, Victoria       : 584 points
-329  |       | Hoye, Jason             : 584 points
-329  |       | Johnson, Mark           : 584 points
-329  |       | Long, Jesse             : 584 points
-329  |       | Lorenz, Brian           : 584 points
-329  |       | McClintock, Jared       : 584 points
-329  |       | McRobie, David          : 584 points
-329  |       | Molletta, Eric          : 584 points
+329  | SS    | Hammond, Victoria       : 584 points
+329  | SS    | Hoye, Jason             : 584 points
+329  | SS    | Johnson, Mark           : 584 points
+329  | SS    | Long, Jesse             : 584 points
+329  | SS    | Lorenz, Brian           : 584 points
+329  | SS    | McClintock, Jared       : 584 points
+329  | SS    | McRobie, David          : 584 points
+329  | SS    | Molletta, Eric          : 584 points
 329  | 4     | Olson, Zachary          : 584 points
 329  | 5     | Paxton, Maura           : 584 points
 329  | 4     | Rohlf, Quinn            : 584 points
-329  |       | Schoene, Rod            : 584 points
-329  |       | Seward, Ryan            : 584 points
+329  | SS    | Schoene, Rod            : 584 points
+329  | SS    | Seward, Ryan            : 584 points
 329  | 4     | Snyder, Kurt            : 584 points
-329  |       | Spears, Brian           : 584 points
+329  | SS    | Spears, Brian           : 584 points
 329  | 5     | St., Dan                : 584 points
-329  |       | Theriot, Dylan          : 584 points
-329  |       | Tuttle, Henry           : 584 points
-329  |       | Tyrrell, Leia           : 584 points
+329  | SS    | Theriot, Dylan          : 584 points
+329  | SS    | Tuttle, Henry           : 584 points
+329  | SS    | Tyrrell, Leia           : 584 points
 329  | 3     | VanWeelden, Dylan       : 584 points
-329  |       | Werhol-Streeter, Seth   : 584 points
-330  |       | Bloom, Matt             : 585 points
-330  |       | Brakke-Pound, Rutherford: 585 points
-330  |       | Chambers, Ian           : 585 points
-330  |       | Cissna, Andrew          : 585 points
-330  |       | Furholm, Steffen        : 585 points
-330  |       | Gaul, Trevor            : 585 points
-330  |       | Gutwald IV, Peter       : 585 points
-330  |       | Hill, Mongomery         : 585 points
+329  | SS    | Werhol-Streeter, Seth   : 584 points
+330  | SS    | Bloom, Matt             : 585 points
+330  | SS    | Brakke-Pound, Rutherford: 585 points
+330  | SS    | Chambers, Ian           : 585 points
+330  | SS    | Cissna, Andrew          : 585 points
+330  | SS    | Furholm, Steffen        : 585 points
+330  | SS    | Gaul, Trevor            : 585 points
+330  | SS    | Gutwald IV, Peter       : 585 points
+330  | SS    | Hill, Mongomery         : 585 points
 330  | 4     | Lagerstrom, Elise       : 585 points
 330  | 5     | lehnert, august         : 585 points
-330  |       | Lingwood, Alynda        : 585 points
+330  | SS    | Lingwood, Alynda        : 585 points
 330  | 3     | Mahoney, Annie          : 585 points
-330  |       | Maiano, Stacy           : 585 points
-330  |       | Modie, Jonathan         : 585 points
-330  |       | Peterson, Tristan       : 585 points
+330  | SS    | Maiano, Stacy           : 585 points
+330  | SS    | Modie, Jonathan         : 585 points
+330  | SS    | Peterson, Tristan       : 585 points
 330  | 3     | Quick, Allison          : 585 points
-330  |       | Rose, Jason             : 585 points
-330  |       | Singleton, Ryan         : 585 points
+330  | SS    | Rose, Jason             : 585 points
+330  | SS    | Singleton, Ryan         : 585 points
 330  | 4     | Smith, David K.         : 585 points
 330  | 3     | Staha, Aysha            : 585 points
-330  |       | Tervo, Eric             : 585 points
-330  |       | Upper, Daniel           : 585 points
-331  |       | Arkell, Valerie         : 586 points
+330  | SS    | Tervo, Eric             : 585 points
+330  | SS    | Upper, Daniel           : 585 points
+331  | SS    | Arkell, Valerie         : 586 points
 331  | 3     | Fitzgerald, Conor       : 586 points
 331  | 2     | Gallagher, Elizabeth    : 586 points
-331  |       | Gepper, Jeff            : 586 points
-331  |       | Grummon-Beale, Juliette : 586 points
-331  |       | Hanel, Kylee            : 586 points
-331  |       | Klein, Adriel           : 586 points
-331  |       | LaVeine, Andrew         : 586 points
-331  |       | Milander, Curtis        : 586 points
-331  |       | Redden, Andy            : 586 points
-331  |       | Rodarte, Vince          : 586 points
-331  |       | Schaivo, Lillian        : 586 points
+331  | SS    | Gepper, Jeff            : 586 points
+331  | SS    | Grummon-Beale, Juliette : 586 points
+331  | SS    | Hanel, Kylee            : 586 points
+331  | SS    | Klein, Adriel           : 586 points
+331  | SS    | LaVeine, Andrew         : 586 points
+331  | SS    | Milander, Curtis        : 586 points
+331  | SS    | Redden, Andy            : 586 points
+331  | SS    | Rodarte, Vince          : 586 points
+331  | SS    | Schaivo, Lillian        : 586 points
 331  | 3     | Schmitz, Camilla        : 586 points
 331  | 4     | Seymour, Amy            : 586 points
-331  |       | Smith, Jeff             : 586 points
-331  |       | Thompson, Jessica       : 586 points
-331  |       | Unfres, Joseph          : 586 points
+331  | SS    | Smith, Jeff             : 586 points
+331  | SS    | Thompson, Jessica       : 586 points
+331  | SS    | Unfres, Joseph          : 586 points
 331  | 5     | Waldron, Jannel         : 586 points
 331  | 5     | Wheeler, Anna           : 586 points
-331  |       | Wilson, John            : 586 points
-331  |       | Winans, Jennifer        : 586 points
-331  |       | Ybaben, Michael         : 586 points
-331  |       | Zuendel, Karsten        : 586 points
+331  | SS    | Wilson, John            : 586 points
+331  | SS    | Winans, Jennifer        : 586 points
+331  | SS    | Ybaben, Michael         : 586 points
+331  | SS    | Zuendel, Karsten        : 586 points
 332  | 3     | Anderson, Rob           : 587 points
-332  |       | Bender, James           : 587 points
-332  |       | Bilanski, Tara          : 587 points
+332  | SS    | Bender, James           : 587 points
+332  | SS    | Bilanski, Tara          : 587 points
 332  | 4     | Billowitz, Layla        : 587 points
 332  | 5     | Brandwein, Michael      : 587 points
-332  |       | Brown, Chance           : 587 points
-332  |       | Elder, Kimberley        : 587 points
-332  |       | Garner, James           : 587 points
-332  |       | Jenks, Claire           : 587 points
-332  |       | Mangubat, Lorenzo       : 587 points
-332  |       | Mizee, Scott            : 587 points
-332  |       | Paris, Dominic          : 587 points
+332  | SS    | Brown, Chance           : 587 points
+332  | SS    | Elder, Kimberley        : 587 points
+332  | SS    | Garner, James           : 587 points
+332  | SS    | Jenks, Claire           : 587 points
+332  | SS    | Mangubat, Lorenzo       : 587 points
+332  | SS    | Mizee, Scott            : 587 points
+332  | SS    | Paris, Dominic          : 587 points
 332  | 5     | Parson, Nathanael       : 587 points
-332  |       | Polansky, David         : 587 points
-332  |       | Pungor, Daniel          : 587 points
-332  |       | St.Germain, Dan         : 587 points
+332  | SS    | Polansky, David         : 587 points
+332  | SS    | Pungor, Daniel          : 587 points
+332  | SS    | St.Germain, Dan         : 587 points
 332  | 5     | Stamm, Stacy            : 587 points
-332  |       | Stromberg, Stacey       : 587 points
-332  |       | Walko, David            : 587 points
-333  |       | Aslani, Koosha          : 588 points
+332  | SS    | Stromberg, Stacey       : 587 points
+332  | SS    | Walko, David            : 587 points
+333  | SS    | Aslani, Koosha          : 588 points
 333  | 5     | Barney, Matt            : 588 points
-333  |       | Cohen, Felix            : 588 points
+333  | SS    | Cohen, Felix            : 588 points
 333  | 5     | Colemen, Ariel          : 588 points
-333  |       | Dodge, David            : 588 points
-333  |       | Duncan, Andrew          : 588 points
-333  |       | Handorff, Dan           : 588 points
-333  |       | Hatfield, Richard       : 588 points
-333  |       | Hendrickson, Jared      : 588 points
-333  |       | Hopkins, Michael        : 588 points
-333  |       | Houghton, Andrew        : 588 points
-333  |       | Hunt, Patrick           : 588 points
-333  |       | Jeremy, andersen        : 588 points
-333  |       | Laverde, Luca           : 588 points
+333  | SS    | Dodge, David            : 588 points
+333  | SS    | Duncan, Andrew          : 588 points
+333  | SS    | Handorff, Dan           : 588 points
+333  | SS    | Hatfield, Richard       : 588 points
+333  | SS    | Hendrickson, Jared      : 588 points
+333  | SS    | Hopkins, Michael        : 588 points
+333  | SS    | Houghton, Andrew        : 588 points
+333  | SS    | Hunt, Patrick           : 588 points
+333  | SS    | Jeremy, andersen        : 588 points
+333  | SS    | Laverde, Luca           : 588 points
 333  | 4     | Mansolillo, Robert      : 588 points
 333  | 4     | Mavila, Ursula          : 588 points
-333  |       | McGhie, Nile            : 588 points
-333  |       | Metz, Michael           : 588 points
-333  |       | Pendygraft, Annie       : 588 points
-333  |       | platis, Joshua          : 588 points
-333  |       | rodriguez, Sophia       : 588 points
-333  |       | Saborit-Guasch, Kevin   : 588 points
-333  |       | Sickler, Thomas         : 588 points
+333  | SS    | McGhie, Nile            : 588 points
+333  | SS    | Metz, Michael           : 588 points
+333  | SS    | Pendygraft, Annie       : 588 points
+333  | SS    | platis, Joshua          : 588 points
+333  | SS    | rodriguez, Sophia       : 588 points
+333  | SS    | Saborit-Guasch, Kevin   : 588 points
+333  | SS    | Sickler, Thomas         : 588 points
 333  | 5     | Simpson, Amelia         : 588 points
 333  | 4     | Sofhauser, Austen       : 588 points
-333  |       | Tesman, Ian             : 588 points
-333  |       | Walker, Kate            : 588 points
-334  |       | Basden, Steven          : 589 points
-334  |       | Benfield, Miles         : 589 points
-334  |       | Bordman, Max            : 589 points
-334  |       | Bustard, Aaron          : 589 points
-334  |       | Christensen, Dana       : 589 points
-334  |       | Cochran, Marty          : 589 points
-334  |       | Corkran, Douglas        : 589 points
-334  |       | Derick, Mosman          : 589 points
+333  | SS    | Tesman, Ian             : 588 points
+333  | SS    | Walker, Kate            : 588 points
+334  | SS    | Basden, Steven          : 589 points
+334  | SS    | Benfield, Miles         : 589 points
+334  | SS    | Bordman, Max            : 589 points
+334  | SS    | Bustard, Aaron          : 589 points
+334  | SS    | Christensen, Dana       : 589 points
+334  | SS    | Cochran, Marty          : 589 points
+334  | SS    | Corkran, Douglas        : 589 points
+334  | SS    | Derick, Mosman          : 589 points
 334  | 5     | Gunsul, Kyle            : 589 points
-334  |       | Hampson, Jack           : 589 points
-334  |       | Hauver, Abby            : 589 points
-334  |       | Hedrick, Leigh          : 589 points
-334  |       | Higgins Honek, Heather  : 589 points
-334  |       | Jaszkowiak, Alex        : 589 points
-334  |       | Kaczmarek, Eric         : 589 points
+334  | SS    | Hampson, Jack           : 589 points
+334  | SS    | Hauver, Abby            : 589 points
+334  | SS    | Hedrick, Leigh          : 589 points
+334  | SS    | Higgins Honek, Heather  : 589 points
+334  | SS    | Jaszkowiak, Alex        : 589 points
+334  | SS    | Kaczmarek, Eric         : 589 points
 334  | 3     | Keller, Mike            : 589 points
-334  |       | kleaveland, kim         : 589 points
-334  |       | Lahmann, Alex           : 589 points
-334  |       | Lillegard, Nathan       : 589 points
-334  |       | McCord, Dennis          : 589 points
-334  |       | McNary, Emily           : 589 points
+334  | SS    | kleaveland, kim         : 589 points
+334  | SS    | Lahmann, Alex           : 589 points
+334  | SS    | Lillegard, Nathan       : 589 points
+334  | SS    | McCord, Dennis          : 589 points
+334  | SS    | McNary, Emily           : 589 points
 334  | 4     | Morris, Kelley          : 589 points
-334  |       | Mueller, Gregory        : 589 points
-334  |       | Newman, Gavin           : 589 points
-334  |       | Saso, Phil              : 589 points
-334  |       | Saunders, Dan           : 589 points
+334  | SS    | Mueller, Gregory        : 589 points
+334  | SS    | Newman, Gavin           : 589 points
+334  | SS    | Saso, Phil              : 589 points
+334  | SS    | Saunders, Dan           : 589 points
 334  | 3     | Schoenborn, Thomas      : 589 points
 334  | 5     | Spring, Easton          : 589 points
-334  |       | Walton, Sean            : 589 points
-334  |       | Werner, Mica            : 589 points
-334  |       | Winicki, Frank          : 589 points
-335  |       | Alenduff, Dirk          : 590 points
-335  |       | Bansmer, Michael        : 590 points
-335  |       | Bartnikowski, Sebastian : 590 points
-335  |       | Blankenship, Kori       : 590 points
-335  |       | Bradford, Craig         : 590 points
-335  |       | Braun, Mark             : 590 points
-335  |       | Bridgewater, Chris      : 590 points
-335  |       | Brown, Jenny            : 590 points
-335  |       | Brunner, Bjoern         : 590 points
-335  |       | Bullard, Travis         : 590 points
-335  |       | Chasse, Claire          : 590 points
-335  |       | Chung, Dominic          : 590 points
-335  |       | Coates, Larry           : 590 points
-335  |       | Coe, Michael            : 590 points
-335  |       | Cook, Leo               : 590 points
-335  |       | Cowling, Sara           : 590 points
-335  |       | Crane, Jason            : 590 points
+334  | SS    | Walton, Sean            : 589 points
+334  | SS    | Werner, Mica            : 589 points
+334  | SS    | Winicki, Frank          : 589 points
+335  | SS    | Alenduff, Dirk          : 590 points
+335  | SS    | Bansmer, Michael        : 590 points
+335  | SS    | Bartnikowski, Sebastian : 590 points
+335  | SS    | Blankenship, Kori       : 590 points
+335  | SS    | Bradford, Craig         : 590 points
+335  | SS    | Braun, Mark             : 590 points
+335  | SS    | Bridgewater, Chris      : 590 points
+335  | SS    | Brown, Jenny            : 590 points
+335  | SS    | Brunner, Bjoern         : 590 points
+335  | SS    | Bullard, Travis         : 590 points
+335  | SS    | Chasse, Claire          : 590 points
+335  | SS    | Chung, Dominic          : 590 points
+335  | SS    | Coates, Larry           : 590 points
+335  | SS    | Coe, Michael            : 590 points
+335  | SS    | Cook, Leo               : 590 points
+335  | SS    | Cowling, Sara           : 590 points
+335  | SS    | Crane, Jason            : 590 points
 335  | 3     | Deobald, Christy        : 590 points
-335  |       | DeVries, Paul           : 590 points
-335  |       | Dodge, Kiley            : 590 points
+335  | SS    | DeVries, Paul           : 590 points
+335  | SS    | Dodge, Kiley            : 590 points
 335  | 4     | Dubuisson-Kahn, Nadege  : 590 points
-335  |       | Duhon, Brian            : 590 points
-335  |       | Durate, Aaron           : 590 points
-335  |       | Dydasco, Deja           : 590 points
-335  |       | Farling, Scott          : 590 points
-335  |       | Gay, Alex               : 590 points
-335  |       | Gaylord, Jodi           : 590 points
-335  |       | Guzman, Benito          : 590 points
-335  |       | Hamness, Rose-Ann       : 590 points
-335  |       | Hargis, Alyssa          : 590 points
-335  |       | Harple, Griffin         : 590 points
-335  |       | Harris, Brian           : 590 points
-335  |       | Helgren, Ben            : 590 points
-335  |       | Kaylor, Andrew          : 590 points
-335  |       | Klinger, Charles        : 590 points
-335  |       | Kreps, Andrew           : 590 points
-335  |       | Lamper, Steve           : 590 points
-335  |       | Lara, Jorge             : 590 points
-335  |       | Leritz, Harper          : 590 points
-335  |       | Little, Thomas          : 590 points
-335  |       | Marron, Isaac           : 590 points
-335  |       | Marron, James           : 590 points
-335  |       | Melson, Israel Jr.      : 590 points
-335  |       | Miller, Tracy           : 590 points
-335  |       | Moen, Ron               : 590 points
-335  |       | Moore, Kel              : 590 points
-335  |       | negasi, samual          : 590 points
-335  |       | Nelson, Chris           : 590 points
-335  |       | Olson, Beckett          : 590 points
-335  |       | Peterson, Adam          : 590 points
-335  |       | Ragsdale, Jon           : 590 points
-335  |       | Rathburn, Sam           : 590 points
-335  |       | Reeb, Emmett            : 590 points
-335  |       | Reynolds, Simon         : 590 points
-335  |       | Roerig, Kyle            : 590 points
-335  |       | Rohani, Reyaz           : 590 points
-335  |       | Rosell, Jack            : 590 points
-335  |       | Rousseau, Rob           : 590 points
-335  |       | Sampson, Noah           : 590 points
-335  |       | Schur, Maria            : 590 points
-335  |       | Smelser, Koen           : 590 points
-335  |       | Snyder, Laila           : 590 points
-335  |       | Spriggs, Morgan         : 590 points
-335  |       | Staples, Jordan         : 590 points
+335  | SS    | Duhon, Brian            : 590 points
+335  | SS    | Durate, Aaron           : 590 points
+335  | SS    | Dydasco, Deja           : 590 points
+335  | SS    | Farling, Scott          : 590 points
+335  | SS    | Gay, Alex               : 590 points
+335  | SS    | Gaylord, Jodi           : 590 points
+335  | SS    | Guzman, Benito          : 590 points
+335  | SS    | Hamness, Rose-Ann       : 590 points
+335  | SS    | Hargis, Alyssa          : 590 points
+335  | SS    | Harple, Griffin         : 590 points
+335  | SS    | Harris, Brian           : 590 points
+335  | SS    | Helgren, Ben            : 590 points
+335  | SS    | Kaylor, Andrew          : 590 points
+335  | SS    | Klinger, Charles        : 590 points
+335  | SS    | Kreps, Andrew           : 590 points
+335  | SS    | Lamper, Steve           : 590 points
+335  | SS    | Lara, Jorge             : 590 points
+335  | SS    | Leritz, Harper          : 590 points
+335  | SS    | Little, Thomas          : 590 points
+335  | SS    | Marron, Isaac           : 590 points
+335  | SS    | Marron, James           : 590 points
+335  | SS    | Melson, Israel Jr.      : 590 points
+335  | SS    | Miller, Tracy           : 590 points
+335  | SS    | Moen, Ron               : 590 points
+335  | SS    | Moore, Kel              : 590 points
+335  | SS    | negasi, samual          : 590 points
+335  | SS    | Nelson, Chris           : 590 points
+335  | SS    | Olson, Beckett          : 590 points
+335  | SS    | Peterson, Adam          : 590 points
+335  | SS    | Ragsdale, Jon           : 590 points
+335  | SS    | Rathburn, Sam           : 590 points
+335  | SS    | Reeb, Emmett            : 590 points
+335  | SS    | Reynolds, Simon         : 590 points
+335  | SS    | Roerig, Kyle            : 590 points
+335  | SS    | Rohani, Reyaz           : 590 points
+335  | SS    | Rosell, Jack            : 590 points
+335  | SS    | Rousseau, Rob           : 590 points
+335  | SS    | Sampson, Noah           : 590 points
+335  | SS    | Schur, Maria            : 590 points
+335  | SS    | Smelser, Koen           : 590 points
+335  | SS    | Snyder, Laila           : 590 points
+335  | SS    | Spriggs, Morgan         : 590 points
+335  | SS    | Staples, Jordan         : 590 points
 335  | 4     | Stivers, Brice          : 590 points
-335  |       | Taft, Erick             : 590 points
-335  |       | Taylor, Eric            : 590 points
-335  |       | Taylor, Ted             : 590 points
-335  |       | Theriot, Jesse          : 590 points
-335  |       | Theriot, Troy           : 590 points
-335  |       | Tims, John              : 590 points
-335  |       | Tomkins, Ben            : 590 points
-335  |       | Tyburski, Austin        : 590 points
-335  |       | Umberhandt, James       : 590 points
-335  |       | VanCott, David          : 590 points
-335  |       | Ward, Lizzy             : 590 points
-335  |       | Wastberg, Steven        : 590 points
-335  |       | Weaver, Axel            : 590 points
-335  |       | Wilson, Peyton          : 590 points
-335  |       | Yau-Luu, Fiona          : 590 points
-335  |       | Zak, Isaac              : 590 points
-336  |       | Bostad, Jessica         : 591 points
-336  |       | Boyd, Bonnie            : 591 points
-336  |       | Diaz, Roberto           : 591 points
-336  |       | Embree, David           : 591 points
-336  |       | Hargis, Shyan           : 591 points
+335  | SS    | Taft, Erick             : 590 points
+335  | SS    | Taylor, Eric            : 590 points
+335  | SS    | Taylor, Ted             : 590 points
+335  | SS    | Theriot, Jesse          : 590 points
+335  | SS    | Theriot, Troy           : 590 points
+335  | SS    | Tims, John              : 590 points
+335  | SS    | Tomkins, Ben            : 590 points
+335  | SS    | Tyburski, Austin        : 590 points
+335  | SS    | Umberhandt, James       : 590 points
+335  | SS    | VanCott, David          : 590 points
+335  | SS    | Ward, Lizzy             : 590 points
+335  | SS    | Wastberg, Steven        : 590 points
+335  | SS    | Weaver, Axel            : 590 points
+335  | SS    | Wilson, Peyton          : 590 points
+335  | SS    | Yau-Luu, Fiona          : 590 points
+335  | SS    | Zak, Isaac              : 590 points
+336  | SS    | Bostad, Jessica         : 591 points
+336  | SS    | Boyd, Bonnie            : 591 points
+336  | SS    | Diaz, Roberto           : 591 points
+336  | SS    | Embree, David           : 591 points
+336  | SS    | Hargis, Shyan           : 591 points
 336  | 5     | Harrison, Dan           : 591 points
-336  |       | Hazekamp, Earl          : 591 points
+336  | SS    | Hazekamp, Earl          : 591 points
 336  | 4     | Hubert, Christine       : 591 points
 336  | 4     | Johnston, Emily         : 591 points
-336  |       | Keshava Murthy, Savyasaachi: 591 points
-336  |       | Kinnear, Meg            : 591 points
-336  |       | Massine, Russell        : 591 points
-336  |       | Moote, David            : 591 points
-336  |       | Pfeifer, Jason          : 591 points
-336  |       | Scholz, Erika           : 591 points
+336  | SS    | Keshava Murthy, Savyasaachi: 591 points
+336  | SS    | Kinnear, Meg            : 591 points
+336  | SS    | Massine, Russell        : 591 points
+336  | SS    | Moote, David            : 591 points
+336  | SS    | Pfeifer, Jason          : 591 points
+336  | SS    | Scholz, Erika           : 591 points
 336  | 2     | Smith, Darren           : 591 points
-336  |       | Sprando, Michelle       : 591 points
-336  |       | Western, Kara           : 591 points
-336  |       | Zenoniani, Marc         : 591 points
-337  |       | Amparo, Alex            : 592 points
+336  | SS    | Sprando, Michelle       : 591 points
+336  | SS    | Western, Kara           : 591 points
+336  | SS    | Zenoniani, Marc         : 591 points
+337  | SS    | Amparo, Alex            : 592 points
 337  | 5     | Arcouette, Gina         : 592 points
 337  | 3     | Atkey, Warren           : 592 points
-337  |       | Avery, Jackson          : 592 points
-337  |       | Baunsgard, Neil         : 592 points
-337  |       | Baxter, Justin          : 592 points
-337  |       | Bell, Tristan           : 592 points
-337  |       | Bishop, Mac             : 592 points
+337  | SS    | Avery, Jackson          : 592 points
+337  | SS    | Baunsgard, Neil         : 592 points
+337  | SS    | Baxter, Justin          : 592 points
+337  | SS    | Bell, Tristan           : 592 points
+337  | SS    | Bishop, Mac             : 592 points
 337  | 5     | Bowman, Doug            : 592 points
-337  |       | Brodehl, Marc           : 592 points
-337  |       | Cable, Trevor           : 592 points
-337  |       | Cacioppo, Dorothy       : 592 points
+337  | SS    | Brodehl, Marc           : 592 points
+337  | SS    | Cable, Trevor           : 592 points
+337  | SS    | Cacioppo, Dorothy       : 592 points
 337  | 5     | Campbell, Glori         : 592 points
-337  |       | Carlson, Riley          : 592 points
-337  |       | Cazemier, Gregory       : 592 points
-337  |       | Davis, Joseph           : 592 points
-337  |       | Deschler, Caleb         : 592 points
-337  |       | Dodge, Corbin           : 592 points
-337  |       | Enderle, Ann            : 592 points
+337  | SS    | Carlson, Riley          : 592 points
+337  | SS    | Cazemier, Gregory       : 592 points
+337  | SS    | Davis, Joseph           : 592 points
+337  | SS    | Deschler, Caleb         : 592 points
+337  | SS    | Dodge, Corbin           : 592 points
+337  | SS    | Enderle, Ann            : 592 points
 337  | 4     | Fee, David              : 592 points
-337  |       | Freeman, Dan            : 592 points
-337  |       | Harris, Sheena          : 592 points
-337  |       | Hass, Jared             : 592 points
-337  |       | Honer, Jordan           : 592 points
-337  |       | Jero, Devon             : 592 points
-337  |       | Kemmerer, Laurie        : 592 points
-337  |       | Kruit, Ryan             : 592 points
-337  |       | Kulle, Jennifer         : 592 points
-337  |       | Lammers, Ryan           : 592 points
+337  | SS    | Freeman, Dan            : 592 points
+337  | SS    | Harris, Sheena          : 592 points
+337  | SS    | Hass, Jared             : 592 points
+337  | SS    | Honer, Jordan           : 592 points
+337  | SS    | Jero, Devon             : 592 points
+337  | SS    | Kemmerer, Laurie        : 592 points
+337  | SS    | Kruit, Ryan             : 592 points
+337  | SS    | Kulle, Jennifer         : 592 points
+337  | SS    | Lammers, Ryan           : 592 points
 337  | 3/4/5 | Loftus, Emmett          : 592 points
-337  |       | Lopez, Miguel           : 592 points
-337  |       | McCann, Cliff           : 592 points
-337  |       | Morehead, John          : 592 points
-337  |       | Neilson, David          : 592 points
+337  | SS    | Lopez, Miguel           : 592 points
+337  | SS    | McCann, Cliff           : 592 points
+337  | SS    | Morehead, John          : 592 points
+337  | SS    | Neilson, David          : 592 points
 337  | 4     | Pedersen, Anders        : 592 points
-337  |       | Sampson, Katharine      : 592 points
-337  |       | Shen, Charlton          : 592 points
-337  |       | Skalet, Zachary         : 592 points
-337  |       | Smith, Dylan            : 592 points
-337  |       | Sorensen, Brian         : 592 points
-337  |       | Stringer, Kenneth       : 592 points
-337  |       | Stromquist, Sophia      : 592 points
-337  |       | Tiffany, Adam           : 592 points
-337  |       | Twichell, Jagen         : 592 points
-337  |       | Tye, Angela             : 592 points
+337  | SS    | Sampson, Katharine      : 592 points
+337  | SS    | Shen, Charlton          : 592 points
+337  | SS    | Skalet, Zachary         : 592 points
+337  | SS    | Smith, Dylan            : 592 points
+337  | SS    | Sorensen, Brian         : 592 points
+337  | SS    | Stringer, Kenneth       : 592 points
+337  | SS    | Stromquist, Sophia      : 592 points
+337  | SS    | Tiffany, Adam           : 592 points
+337  | SS    | Twichell, Jagen         : 592 points
+337  | SS    | Tye, Angela             : 592 points
 337  | 4     | Vaillancourt-Sals, Amy  : 592 points
-337  |       | Valencia, Chris         : 592 points
+337  | SS    | Valencia, Chris         : 592 points
 337  | 5     | Vallion, Laura          : 592 points
-337  |       | Ward, Kellie            : 592 points
-337  |       | Winnen, Michael         : 592 points
-338  |       | Cardwell, Philip        : 593 points
-338  |       | Erdman, Matt            : 593 points
-338  |       | Estrin, David           : 593 points
-338  |       | FARABEE, ADRIENNE       : 593 points
-338  |       | Flynn, Brendan          : 593 points
-338  |       | Hogenboom, Eric         : 593 points
-338  |       | Holm, Chris             : 593 points
-338  |       | Jones, Holden           : 593 points
+337  | SS    | Ward, Kellie            : 592 points
+337  | SS    | Winnen, Michael         : 592 points
+338  | SS    | Cardwell, Philip        : 593 points
+338  | SS    | Erdman, Matt            : 593 points
+338  | SS    | Estrin, David           : 593 points
+338  | SS    | FARABEE, ADRIENNE       : 593 points
+338  | SS    | Flynn, Brendan          : 593 points
+338  | SS    | Hogenboom, Eric         : 593 points
+338  | SS    | Holm, Chris             : 593 points
+338  | SS    | Jones, Holden           : 593 points
 338  | 4     | Lange, Jeff             : 593 points
-338  |       | Muench, Sarah           : 593 points
+338  | SS    | Muench, Sarah           : 593 points
 338  | 5     | Newcomer, Natalie       : 593 points
 338  | 5     | Puskas, Rebecca         : 593 points
-338  |       | Russell, Loren          : 593 points
-338  |       | Schenk, Bobby           : 593 points
-338  |       | Stark, Adison           : 593 points
-338  |       | storton, john           : 593 points
-338  |       | Tritz, Thomas           : 593 points
+338  | SS    | Russell, Loren          : 593 points
+338  | SS    | Schenk, Bobby           : 593 points
+338  | SS    | Stark, Adison           : 593 points
+338  | SS    | storton, john           : 593 points
+338  | SS    | Tritz, Thomas           : 593 points
 338  | 5     | Wall, Emily             : 593 points
-339  |       | Abel, Jack              : 594 points
-339  |       | Appuhn, Tanya           : 594 points
+339  | SS    | Abel, Jack              : 594 points
+339  | SS    | Appuhn, Tanya           : 594 points
 339  | 4     | Bazzano, Leah           : 594 points
-339  |       | Boyett, Nathan          : 594 points
-339  |       | Broadman, Nicola        : 594 points
-339  |       | Buchholz, Brian         : 594 points
-339  |       | Carlson, Tara           : 594 points
-339  |       | Coppa, Jim              : 594 points
+339  | SS    | Boyett, Nathan          : 594 points
+339  | SS    | Broadman, Nicola        : 594 points
+339  | SS    | Buchholz, Brian         : 594 points
+339  | SS    | Carlson, Tara           : 594 points
+339  | SS    | Coppa, Jim              : 594 points
 339  | 1/2   | Engel, Matt             : 594 points
-339  |       | Flatten, Aaron          : 594 points
-339  |       | Forman, David           : 594 points
-339  |       | Graves, Scott           : 594 points
-339  |       | Gustafson, David        : 594 points
-339  |       | Hahn, Cannon            : 594 points
-339  |       | Haughey, Matt           : 594 points
-339  |       | Hendricks, Jordan       : 594 points
-339  |       | Hicks, Charles          : 594 points
-339  |       | Hill, Jenna             : 594 points
-339  |       | Hornell-McBride, Henery : 594 points
-339  |       | Horowitz, Eli           : 594 points
-339  |       | Jennart, Sean           : 594 points
-339  |       | Jernstrom, Neil         : 594 points
-339  |       | Johnson, Kathleen       : 594 points
-339  |       | Jonsen, Chaise          : 594 points
-339  |       | Kinnamen, Terry         : 594 points
-339  |       | Krabill, Timothy        : 594 points
-339  |       | Lahmann, Cayden         : 594 points
-339  |       | Leibowitz, Flo          : 594 points
-339  |       | Lopez, Ron              : 594 points
-339  |       | Lovejoy, Tyler          : 594 points
-339  |       | Malik, Sumi             : 594 points
+339  | SS    | Flatten, Aaron          : 594 points
+339  | SS    | Forman, David           : 594 points
+339  | SS    | Graves, Scott           : 594 points
+339  | SS    | Gustafson, David        : 594 points
+339  | SS    | Hahn, Cannon            : 594 points
+339  | SS    | Haughey, Matt           : 594 points
+339  | SS    | Hendricks, Jordan       : 594 points
+339  | SS    | Hicks, Charles          : 594 points
+339  | SS    | Hill, Jenna             : 594 points
+339  | SS    | Hornell-McBride, Henery : 594 points
+339  | SS    | Horowitz, Eli           : 594 points
+339  | SS    | Jennart, Sean           : 594 points
+339  | SS    | Jernstrom, Neil         : 594 points
+339  | SS    | Johnson, Kathleen       : 594 points
+339  | SS    | Jonsen, Chaise          : 594 points
+339  | SS    | Kinnamen, Terry         : 594 points
+339  | SS    | Krabill, Timothy        : 594 points
+339  | SS    | Lahmann, Cayden         : 594 points
+339  | SS    | Leibowitz, Flo          : 594 points
+339  | SS    | Lopez, Ron              : 594 points
+339  | SS    | Lovejoy, Tyler          : 594 points
+339  | SS    | Malik, Sumi             : 594 points
 339  | 3     | Moote, Susan            : 594 points
-339  |       | Mount, Christopher      : 594 points
-339  |       | Murphy, Rachel          : 594 points
-339  |       | Nisley, Eric            : 594 points
-339  |       | Patch, Ron              : 594 points
-339  |       | Petrin, JP              : 594 points
-339  |       | Pfeifer, Jensen         : 594 points
-339  |       | Piff, Anthony           : 594 points
-339  |       | Pikaart, Thomas E       : 594 points
-339  |       | Pitone, Miles           : 594 points
-339  |       | Potter, Lizzy           : 594 points
-339  |       | Powell, Steven          : 594 points
-339  |       | Roberts, Randall        : 594 points
-339  |       | Robinson, David         : 594 points
-339  |       | Ross, Patrick           : 594 points
-339  |       | Roth, Jacob             : 594 points
-339  |       | Sakamoto, Seth          : 594 points
-339  |       | Salbador, Bill          : 594 points
-339  |       | Sanderson, Silas        : 594 points
+339  | SS    | Mount, Christopher      : 594 points
+339  | SS    | Murphy, Rachel          : 594 points
+339  | SS    | Nisley, Eric            : 594 points
+339  | SS    | Patch, Ron              : 594 points
+339  | SS    | Petrin, JP              : 594 points
+339  | SS    | Pfeifer, Jensen         : 594 points
+339  | SS    | Piff, Anthony           : 594 points
+339  | SS    | Pikaart, Thomas E       : 594 points
+339  | SS    | Pitone, Miles           : 594 points
+339  | SS    | Potter, Lizzy           : 594 points
+339  | SS    | Powell, Steven          : 594 points
+339  | SS    | Roberts, Randall        : 594 points
+339  | SS    | Robinson, David         : 594 points
+339  | SS    | Ross, Patrick           : 594 points
+339  | SS    | Roth, Jacob             : 594 points
+339  | SS    | Sakamoto, Seth          : 594 points
+339  | SS    | Salbador, Bill          : 594 points
+339  | SS    | Sanderson, Silas        : 594 points
 339  | 4     | Schwenderlauf, Sherry   : 594 points
-339  |       | Seward, Michelle        : 594 points
-339  |       | Shoemaker, Luke         : 594 points
-339  |       | Sims, Joshua            : 594 points
-339  |       | Smith, Doug             : 594 points
-339  |       | Steadman, George        : 594 points
-339  |       | Stover, Lily            : 594 points
-339  |       | Sweda-Eldridge, Maureen : 594 points
-339  |       | Tarnow, Calder          : 594 points
-339  |       | Vanderstoep, Evan       : 594 points
-339  |       | Vasquez, Cher           : 594 points
-339  |       | Villegas, Nicole        : 594 points
-339  |       | Vinci, Joan             : 594 points
-339  |       | Weeks, Sarah            : 594 points
-339  |       | Wisowaty, JD            : 594 points
-340  |       | Adams, John             : 595 points
-340  |       | Alverez, Devon          : 595 points
-340  |       | Beebe, Tessa            : 595 points
-340  |       | Burzaco, Juan Pablo     : 595 points
-340  |       | Campbell, Michael       : 595 points
-340  |       | Carrico Rogers, Dylan   : 595 points
-340  |       | Coggins, James          : 595 points
-340  |       | DeBennedetti, Gregory   : 595 points
+339  | SS    | Seward, Michelle        : 594 points
+339  | SS    | Shoemaker, Luke         : 594 points
+339  | SS    | Sims, Joshua            : 594 points
+339  | SS    | Smith, Doug             : 594 points
+339  | SS    | Steadman, George        : 594 points
+339  | SS    | Stover, Lily            : 594 points
+339  | SS    | Sweda-Eldridge, Maureen : 594 points
+339  | SS    | Tarnow, Calder          : 594 points
+339  | SS    | Vanderstoep, Evan       : 594 points
+339  | SS    | Vasquez, Cher           : 594 points
+339  | SS    | Villegas, Nicole        : 594 points
+339  | SS    | Vinci, Joan             : 594 points
+339  | SS    | Weeks, Sarah            : 594 points
+339  | SS    | Wisowaty, JD            : 594 points
+340  | SS    | Adams, John             : 595 points
+340  | SS    | Alverez, Devon          : 595 points
+340  | SS    | Beebe, Tessa            : 595 points
+340  | SS    | Burzaco, Juan Pablo     : 595 points
+340  | SS    | Campbell, Michael       : 595 points
+340  | SS    | Carrico Rogers, Dylan   : 595 points
+340  | SS    | Coggins, James          : 595 points
+340  | SS    | DeBennedetti, Gregory   : 595 points
 340  | 5     | Doolittle, Adrian       : 595 points
-340  |       | Durfee, Kalia           : 595 points
-340  |       | Durfee, Robert          : 595 points
-340  |       | Ericson, Annie          : 595 points
-340  |       | Erust, Mason            : 595 points
-340  |       | Fattic, Richard         : 595 points
+340  | SS    | Durfee, Kalia           : 595 points
+340  | SS    | Durfee, Robert          : 595 points
+340  | SS    | Ericson, Annie          : 595 points
+340  | SS    | Erust, Mason            : 595 points
+340  | SS    | Fattic, Richard         : 595 points
 340  | 3     | Haag, Brad              : 595 points
-340  |       | Hayer, Carl             : 595 points
-340  |       | Janousek, Jim           : 595 points
-340  |       | Jensen, Cathleen        : 595 points
-340  |       | Klinger, Emily          : 595 points
-340  |       | Lewis, Zoe              : 595 points
-340  |       | McBride, Henry          : 595 points
-340  |       | McDonagh, Matt          : 595 points
-340  |       | Ott-Hendrickson, Anita  : 595 points
-340  |       | Petz, Brady             : 595 points
-340  |       | Rockwell, Amy           : 595 points
-340  |       | Roll, Nathan            : 595 points
-340  |       | Ruegger, Nevin          : 595 points
-340  |       | Rutigliako, Nigel       : 595 points
-340  |       | Smith, Greg             : 595 points
-340  |       | St, Dan                 : 595 points
+340  | SS    | Hayer, Carl             : 595 points
+340  | SS    | Janousek, Jim           : 595 points
+340  | SS    | Jensen, Cathleen        : 595 points
+340  | SS    | Klinger, Emily          : 595 points
+340  | SS    | Lewis, Zoe              : 595 points
+340  | SS    | McBride, Henry          : 595 points
+340  | SS    | McDonagh, Matt          : 595 points
+340  | SS    | Ott-Hendrickson, Anita  : 595 points
+340  | SS    | Petz, Brady             : 595 points
+340  | SS    | Rockwell, Amy           : 595 points
+340  | SS    | Roll, Nathan            : 595 points
+340  | SS    | Ruegger, Nevin          : 595 points
+340  | SS    | Rutigliako, Nigel       : 595 points
+340  | SS    | Smith, Greg             : 595 points
+340  | SS    | St, Dan                 : 595 points
 340  | 4     | Stowers, Jason          : 595 points
 340  | 4     | Towner, Senna           : 595 points
-340  |       | Wilson, Rachael         : 595 points
-341  |       | Alfoni, Mike            : 596 points
-341  |       | Andree, Dammit Janet    : 596 points
+340  | SS    | Wilson, Rachael         : 595 points
+341  | SS    | Alfoni, Mike            : 596 points
+341  | SS    | Andree, Dammit Janet    : 596 points
 341  | 3/4/5 | Blem, Sydney            : 596 points
-341  |       | Booth, Tom              : 596 points
-341  |       | Bourcier, Vikki         : 596 points
-341  |       | Brewer, Ben             : 596 points
-341  |       | Cherry, Kylie           : 596 points
-341  |       | Colony, Brian           : 596 points
-341  |       | Cottrill, Jerod         : 596 points
-341  |       | Cristofaro, Nicholas    : 596 points
-341  |       | Degenhardt, John        : 596 points
-341  |       | Diterlizzi, Matt        : 596 points
-341  |       | Dixon, Susan            : 596 points
-341  |       | Edgerton, Anthony       : 596 points
-341  |       | Ehleringer, Jeff        : 596 points
-341  |       | Erickson, Ethan         : 596 points
-341  |       | Eustis, Annie           : 596 points
-341  |       | Ferguson, Casey         : 596 points
-341  |       | Fitzgerald, Fairlight   : 596 points
-341  |       | Fowler, Patrick         : 596 points
-341  |       | Gerhardt, Kim           : 596 points
-341  |       | Giacchino, Eric         : 596 points
-341  |       | Giraud, David           : 596 points
-341  |       | Goodman, Andrew         : 596 points
-341  |       | Goude, Zach             : 596 points
-341  |       | Green, Kaitlin          : 596 points
-341  |       | Greenberg, David        : 596 points
-341  |       | Hansen, Brian           : 596 points
-341  |       | Hays, Travis            : 596 points
-341  |       | Helgren, Kara           : 596 points
-341  |       | Helzerman, Megan        : 596 points
-341  |       | Hendrix, Elizabeth      : 596 points
-341  |       | Hewett, Owen            : 596 points
-341  |       | Hoffman, Jonathan       : 596 points
+341  | SS    | Booth, Tom              : 596 points
+341  | SS    | Bourcier, Vikki         : 596 points
+341  | SS    | Brewer, Ben             : 596 points
+341  | SS    | Cherry, Kylie           : 596 points
+341  | SS    | Colony, Brian           : 596 points
+341  | SS    | Cottrill, Jerod         : 596 points
+341  | SS    | Cristofaro, Nicholas    : 596 points
+341  | SS    | Degenhardt, John        : 596 points
+341  | SS    | Diterlizzi, Matt        : 596 points
+341  | SS    | Dixon, Susan            : 596 points
+341  | SS    | Edgerton, Anthony       : 596 points
+341  | SS    | Ehleringer, Jeff        : 596 points
+341  | SS    | Erickson, Ethan         : 596 points
+341  | SS    | Eustis, Annie           : 596 points
+341  | SS    | Ferguson, Casey         : 596 points
+341  | SS    | Fitzgerald, Fairlight   : 596 points
+341  | SS    | Fowler, Patrick         : 596 points
+341  | SS    | Gerhardt, Kim           : 596 points
+341  | SS    | Giacchino, Eric         : 596 points
+341  | SS    | Giraud, David           : 596 points
+341  | SS    | Goodman, Andrew         : 596 points
+341  | SS    | Goude, Zach             : 596 points
+341  | SS    | Green, Kaitlin          : 596 points
+341  | SS    | Greenberg, David        : 596 points
+341  | SS    | Hansen, Brian           : 596 points
+341  | SS    | Hays, Travis            : 596 points
+341  | SS    | Helgren, Kara           : 596 points
+341  | SS    | Helzerman, Megan        : 596 points
+341  | SS    | Hendrix, Elizabeth      : 596 points
+341  | SS    | Hewett, Owen            : 596 points
+341  | SS    | Hoffman, Jonathan       : 596 points
 341  | 4     | Huggins, Paige          : 596 points
-341  |       | Irwin, Bruce            : 596 points
-341  |       | Jaspers, Benjamin       : 596 points
-341  |       | johnston, scott         : 596 points
-341  |       | Jossy, Leland           : 596 points
-341  |       | joyce, peter            : 596 points
-341  |       | Juaniza-Saso, Lizzy     : 596 points
-341  |       | Kalodimos, Jonathan     : 596 points
-341  |       | Korvola, Cash           : 596 points
-341  |       | Kuehn, Aaron            : 596 points
-341  |       | Lewis, Ben              : 596 points
-341  |       | Lewis, Charles          : 596 points
-341  |       | Lupton, Jacob           : 596 points
-341  |       | Macuiba, Lola           : 596 points
-341  |       | Mahon, Elizabeth        : 596 points
-341  |       | Marks, Anna             : 596 points
-341  |       | McFadin, Dessa          : 596 points
-341  |       | Mills, Baker            : 596 points
-341  |       | Moen, Ethan             : 596 points
-341  |       | Morris, Jake            : 596 points
-341  |       | Murnez, James           : 596 points
-341  |       | Namadar, Utsav          : 596 points
-341  |       | Newcomer, Reed          : 596 points
-341  |       | Nusbaum, William        : 596 points
-341  |       | O'Brien, Keelan         : 596 points
-341  |       | O'Neal, Andrew          : 596 points
-341  |       | Polovnikoff, Bryce      : 596 points
-341  |       | Porter, Benjamin        : 596 points
-341  |       | Ramsey, Mattias         : 596 points
+341  | SS    | Irwin, Bruce            : 596 points
+341  | SS    | Jaspers, Benjamin       : 596 points
+341  | SS    | johnston, scott         : 596 points
+341  | SS    | Jossy, Leland           : 596 points
+341  | SS    | joyce, peter            : 596 points
+341  | SS    | Juaniza-Saso, Lizzy     : 596 points
+341  | SS    | Kalodimos, Jonathan     : 596 points
+341  | SS    | Korvola, Cash           : 596 points
+341  | SS    | Kuehn, Aaron            : 596 points
+341  | SS    | Lewis, Ben              : 596 points
+341  | SS    | Lewis, Charles          : 596 points
+341  | SS    | Lupton, Jacob           : 596 points
+341  | SS    | Macuiba, Lola           : 596 points
+341  | SS    | Mahon, Elizabeth        : 596 points
+341  | SS    | Marks, Anna             : 596 points
+341  | SS    | McFadin, Dessa          : 596 points
+341  | SS    | Mills, Baker            : 596 points
+341  | SS    | Moen, Ethan             : 596 points
+341  | SS    | Morris, Jake            : 596 points
+341  | SS    | Murnez, James           : 596 points
+341  | SS    | Namadar, Utsav          : 596 points
+341  | SS    | Newcomer, Reed          : 596 points
+341  | SS    | Nusbaum, William        : 596 points
+341  | SS    | O'Brien, Keelan         : 596 points
+341  | SS    | O'Neal, Andrew          : 596 points
+341  | SS    | Polovnikoff, Bryce      : 596 points
+341  | SS    | Porter, Benjamin        : 596 points
+341  | SS    | Ramsey, Mattias         : 596 points
 341  | 4     | Reddig, Mike            : 596 points
-341  |       | Rinder, Kaess           : 596 points
-341  |       | Russell, Donna          : 596 points
-341  |       | Sampson, Benjamin       : 596 points
-341  |       | Sather, Michael         : 596 points
-341  |       | Schocken, Ophelia       : 596 points
-341  |       | Scott, Greg             : 596 points
-341  |       | Skelton, Jason          : 596 points
-341  |       | Smith, Douglas          : 596 points
-341  |       | Smith, Jeffrey          : 596 points
-341  |       | Solano, Keith           : 596 points
+341  | SS    | Rinder, Kaess           : 596 points
+341  | SS    | Russell, Donna          : 596 points
+341  | SS    | Sampson, Benjamin       : 596 points
+341  | SS    | Sather, Michael         : 596 points
+341  | SS    | Schocken, Ophelia       : 596 points
+341  | SS    | Scott, Greg             : 596 points
+341  | SS    | Skelton, Jason          : 596 points
+341  | SS    | Smith, Douglas          : 596 points
+341  | SS    | Smith, Jeffrey          : 596 points
+341  | SS    | Solano, Keith           : 596 points
 341  | 4     | Sorensen, Lyn           : 596 points
-341  |       | Spellacy, Mike          : 596 points
-341  |       | Stedman, Helena         : 596 points
-341  |       | Summers, Tina           : 596 points
-341  |       | Tomkins, Mac            : 596 points
-341  |       | Trerise, Joshua         : 596 points
+341  | SS    | Spellacy, Mike          : 596 points
+341  | SS    | Stedman, Helena         : 596 points
+341  | SS    | Summers, Tina           : 596 points
+341  | SS    | Tomkins, Mac            : 596 points
+341  | SS    | Trerise, Joshua         : 596 points
 341  | 5     | Trost, Samantha         : 596 points
-341  |       | Tunnell, Nathan         : 596 points
-341  |       | Tunnell, Richard        : 596 points
-341  |       | Turner, Scott           : 596 points
-341  |       | Vander Stoep, Conner    : 596 points
-341  |       | Vander Stoep, Evan      : 596 points
-341  |       | VanderStoep, Conner     : 596 points
-341  |       | Velasquez, Erik         : 596 points
-341  |       | Willis, Jim             : 596 points
-341  |       | Wilson, Tim             : 596 points
-341  |       | Yano, Mari              : 596 points
-341  |       | Young, Brian            : 596 points
-341  |       | Ziff-Levine, Brian      : 596 points
-342  |       | Alkhamees, Abdulrahman  : 597 points
-342  |       | Blankenship, Jay        : 597 points
-342  |       | Cleland, Michelle       : 597 points
-342  |       | Deaver, Jack            : 597 points
-342  |       | Fred, Ihle              : 597 points
+341  | SS    | Tunnell, Nathan         : 596 points
+341  | SS    | Tunnell, Richard        : 596 points
+341  | SS    | Turner, Scott           : 596 points
+341  | SS    | Vander Stoep, Conner    : 596 points
+341  | SS    | Vander Stoep, Evan      : 596 points
+341  | SS    | VanderStoep, Conner     : 596 points
+341  | SS    | Velasquez, Erik         : 596 points
+341  | SS    | Willis, Jim             : 596 points
+341  | SS    | Wilson, Tim             : 596 points
+341  | SS    | Yano, Mari              : 596 points
+341  | SS    | Young, Brian            : 596 points
+341  | SS    | Ziff-Levine, Brian      : 596 points
+342  | SS    | Alkhamees, Abdulrahman  : 597 points
+342  | SS    | Blankenship, Jay        : 597 points
+342  | SS    | Cleland, Michelle       : 597 points
+342  | SS    | Deaver, Jack            : 597 points
+342  | SS    | Fred, Ihle              : 597 points
 342  | 4     | Hume, Elsa              : 597 points
-342  |       | Kasch, Edward           : 597 points
-342  |       | Ong, Tenley             : 597 points
-342  |       | Renelt, Daniel          : 597 points
-342  |       | Rockwell, Sarah         : 597 points
-342  |       | Sanfilippo, Seth        : 597 points
-342  |       | Stauber, Stephanie      : 597 points
-342  |       | Wilson, Joshua          : 597 points
-343  |       | Aguilar, Michael        : 598 points
-343  |       | Aldredge, Vaghn         : 598 points
-343  |       | Allison, Jules "DJ"     : 598 points
-343  |       | Amicucci, Matthew       : 598 points
-343  |       | Amundson, Angela        : 598 points
-343  |       | Amuzu, Nicole           : 598 points
-343  |       | Anderholm, Ivan         : 598 points
-343  |       | Anderson, Alec          : 598 points
-343  |       | Anderson, Jennifer      : 598 points
-343  |       | Anderson, Jennifer M    : 598 points
-343  |       | Anderson-Ross, Krista   : 598 points
-343  |       | Ann Nyssen, Beth        : 598 points
-343  |       | Ausprey, Shane          : 598 points
-343  |       | Auspry, Shane           : 598 points
-343  |       | Baker, Ian              : 598 points
-343  |       | Bane, Alison            : 598 points
-343  |       | Banks, Ben              : 598 points
-343  |       | Barksdale, Eddie        : 598 points
-343  |       | Baumgartner, David      : 598 points
-343  |       | Beadle, Kristin         : 598 points
-343  |       | Beaird, Nick            : 598 points
-343  |       | Bern, Justin            : 598 points
-343  |       | Berthet, Jonathan       : 598 points
-343  |       | Boelter, Ryan           : 598 points
-343  |       | Boespflug, Nick         : 598 points
-343  |       | Bridgewater, Christopher: 598 points
-343  |       | Briscoe, Todd           : 598 points
-343  |       | Brown, Joel             : 598 points
-343  |       | Bruins, Brandon         : 598 points
-343  |       | Buice, Dana             : 598 points
-343  |       | Bullard, Christopher    : 598 points
-343  |       | Burchenal, Copeland     : 598 points
-343  |       | Burgess, Jeff           : 598 points
-343  |       | Burns, Charlie          : 598 points
-343  |       | Bussey, Stefan          : 598 points
-343  |       | Bybee, Laurel           : 598 points
-343  |       | Carpenter, Pam          : 598 points
-343  |       | Carr, Ryan              : 598 points
-343  |       | Cate, Melissa           : 598 points
-343  |       | Chance, Zimmerlee       : 598 points
-343  |       | Chung, Nathan           : 598 points
-343  |       | Clem, Erik              : 598 points
-343  |       | Clothier, Rick          : 598 points
-343  |       | Collins, Teresa         : 598 points
-343  |       | Colosimo, Joyce         : 598 points
+342  | SS    | Kasch, Edward           : 597 points
+342  | SS    | Ong, Tenley             : 597 points
+342  | SS    | Renelt, Daniel          : 597 points
+342  | SS    | Rockwell, Sarah         : 597 points
+342  | SS    | Sanfilippo, Seth        : 597 points
+342  | SS    | Stauber, Stephanie      : 597 points
+342  | SS    | Wilson, Joshua          : 597 points
+343  | SS    | Aguilar, Michael        : 598 points
+343  | SS    | Aldredge, Vaghn         : 598 points
+343  | SS    | Allison, Jules "DJ"     : 598 points
+343  | SS    | Amicucci, Matthew       : 598 points
+343  | SS    | Amundson, Angela        : 598 points
+343  | SS    | Amuzu, Nicole           : 598 points
+343  | SS    | Anderholm, Ivan         : 598 points
+343  | SS    | Anderson, Alec          : 598 points
+343  | SS    | Anderson, Jennifer      : 598 points
+343  | SS    | Anderson, Jennifer M    : 598 points
+343  | SS    | Anderson-Ross, Krista   : 598 points
+343  | SS    | Ann Nyssen, Beth        : 598 points
+343  | SS    | Ausprey, Shane          : 598 points
+343  | SS    | Auspry, Shane           : 598 points
+343  | SS    | Baker, Ian              : 598 points
+343  | SS    | Bane, Alison            : 598 points
+343  | SS    | Banks, Ben              : 598 points
+343  | SS    | Barksdale, Eddie        : 598 points
+343  | SS    | Baumgartner, David      : 598 points
+343  | SS    | Beadle, Kristin         : 598 points
+343  | SS    | Beaird, Nick            : 598 points
+343  | SS    | Bern, Justin            : 598 points
+343  | SS    | Berthet, Jonathan       : 598 points
+343  | SS    | Boelter, Ryan           : 598 points
+343  | SS    | Boespflug, Nick         : 598 points
+343  | SS    | Bridgewater, Christopher: 598 points
+343  | SS    | Briscoe, Todd           : 598 points
+343  | SS    | Brown, Joel             : 598 points
+343  | SS    | Bruins, Brandon         : 598 points
+343  | SS    | Buice, Dana             : 598 points
+343  | SS    | Bullard, Christopher    : 598 points
+343  | SS    | Burchenal, Copeland     : 598 points
+343  | SS    | Burgess, Jeff           : 598 points
+343  | SS    | Burns, Charlie          : 598 points
+343  | SS    | Bussey, Stefan          : 598 points
+343  | SS    | Bybee, Laurel           : 598 points
+343  | SS    | Carpenter, Pam          : 598 points
+343  | SS    | Carr, Ryan              : 598 points
+343  | SS    | Cate, Melissa           : 598 points
+343  | SS    | Chance, Zimmerlee       : 598 points
+343  | SS    | Chung, Nathan           : 598 points
+343  | SS    | Clem, Erik              : 598 points
+343  | SS    | Clothier, Rick          : 598 points
+343  | SS    | Collins, Teresa         : 598 points
+343  | SS    | Colosimo, Joyce         : 598 points
 343  | 3     | Cordova, Reynaldo       : 598 points
-343  |       | Culver, Barbara         : 598 points
-343  |       | Cusick, Jessica         : 598 points
-343  |       | Dalton, Jessica         : 598 points
-343  |       | Daniels, Chris          : 598 points
-343  |       | Darling, Anthony        : 598 points
-343  |       | Davenport, Spencer      : 598 points
+343  | SS    | Culver, Barbara         : 598 points
+343  | SS    | Cusick, Jessica         : 598 points
+343  | SS    | Dalton, Jessica         : 598 points
+343  | SS    | Daniels, Chris          : 598 points
+343  | SS    | Darling, Anthony        : 598 points
+343  | SS    | Davenport, Spencer      : 598 points
 343  | 4     | Dawson, Whitney         : 598 points
-343  |       | DeHaart, Steve          : 598 points
-343  |       | demchenko, diana        : 598 points
-343  |       | Demchenko, Diane        : 598 points
-343  |       | Dill, Patrick           : 598 points
-343  |       | Dimick, Aris            : 598 points
-343  |       | DITERLIZZI, JOSEPH      : 598 points
-343  |       | Dixon, Lewis            : 598 points
-343  |       | Dobbins, Chuck          : 598 points
-343  |       | Donaldson, Andrew       : 598 points
-343  |       | Dryer, Anthony          : 598 points
-343  |       | Duffly, Thomas          : 598 points
-343  |       | Durzi, George           : 598 points
-343  |       | Ehleringer, Jennifer    : 598 points
-343  |       | Eide, Geir              : 598 points
-343  |       | Elias, Amy              : 598 points
-343  |       | Eng, Jonathan           : 598 points
-343  |       | Erhan, Aydin            : 598 points
-343  |       | Erickson, Cory          : 598 points
-343  |       | Esmeralda, Julyan       : 598 points
-343  |       | Estes, Jimmy            : 598 points
-343  |       | Finley, Christopher     : 598 points
-343  |       | Flynn, Rachel           : 598 points
-343  |       | Folsom, Jeff            : 598 points
-343  |       | Fortado, Dustin         : 598 points
-343  |       | Gallagher, Gilbert      : 598 points
-343  |       | Gallagher, Hazel        : 598 points
-343  |       | Gann, Glen              : 598 points
-343  |       | Gaspar, Evan            : 598 points
-343  |       | Gistafson, Dave         : 598 points
-343  |       | Glenn, Armstrong        : 598 points
-343  |       | Golden, John            : 598 points
-343  |       | Gooch, Grace            : 598 points
-343  |       | Goodman, Lisa           : 598 points
-343  |       | Gordon, Mary            : 598 points
-343  |       | Gougisha, Andre         : 598 points
-343  |       | Graber, Levi            : 598 points
-343  |       | Grater, Cody            : 598 points
-343  |       | Haight, Andrew          : 598 points
-343  |       | Hammond, Jacob          : 598 points
-343  |       | Hamness, Ryley          : 598 points
-343  |       | Handorff, Micah         : 598 points
-343  |       | Hardin, Shaina          : 598 points
-343  |       | Hardison, Lindsay       : 598 points
-343  |       | Harris, Marek           : 598 points
-343  |       | Hauge, Jacob            : 598 points
-343  |       | Hayden, Whitney         : 598 points
-343  |       | Heffner, Olivia         : 598 points
-343  |       | Herman, David           : 598 points
-343  |       | Heston, Aaron           : 598 points
-343  |       | Hirsch, Jake            : 598 points
-343  |       | Hobbs, q                : 598 points
-343  |       | Holm, Gary              : 598 points
+343  | SS    | DeHaart, Steve          : 598 points
+343  | SS    | demchenko, diana        : 598 points
+343  | SS    | Demchenko, Diane        : 598 points
+343  | SS    | Dill, Patrick           : 598 points
+343  | SS    | Dimick, Aris            : 598 points
+343  | SS    | DITERLIZZI, JOSEPH      : 598 points
+343  | SS    | Dixon, Lewis            : 598 points
+343  | SS    | Dobbins, Chuck          : 598 points
+343  | SS    | Donaldson, Andrew       : 598 points
+343  | SS    | Dryer, Anthony          : 598 points
+343  | SS    | Duffly, Thomas          : 598 points
+343  | SS    | Durzi, George           : 598 points
+343  | SS    | Ehleringer, Jennifer    : 598 points
+343  | SS    | Eide, Geir              : 598 points
+343  | SS    | Elias, Amy              : 598 points
+343  | SS    | Eng, Jonathan           : 598 points
+343  | SS    | Erhan, Aydin            : 598 points
+343  | SS    | Erickson, Cory          : 598 points
+343  | SS    | Esmeralda, Julyan       : 598 points
+343  | SS    | Estes, Jimmy            : 598 points
+343  | SS    | Finley, Christopher     : 598 points
+343  | SS    | Flynn, Rachel           : 598 points
+343  | SS    | Folsom, Jeff            : 598 points
+343  | SS    | Fortado, Dustin         : 598 points
+343  | SS    | Gallagher, Gilbert      : 598 points
+343  | SS    | Gallagher, Hazel        : 598 points
+343  | SS    | Gann, Glen              : 598 points
+343  | SS    | Gaspar, Evan            : 598 points
+343  | SS    | Gistafson, Dave         : 598 points
+343  | SS    | Glenn, Armstrong        : 598 points
+343  | SS    | Golden, John            : 598 points
+343  | SS    | Gooch, Grace            : 598 points
+343  | SS    | Goodman, Lisa           : 598 points
+343  | SS    | Gordon, Mary            : 598 points
+343  | SS    | Gougisha, Andre         : 598 points
+343  | SS    | Graber, Levi            : 598 points
+343  | SS    | Grater, Cody            : 598 points
+343  | SS    | Haight, Andrew          : 598 points
+343  | SS    | Hammond, Jacob          : 598 points
+343  | SS    | Hamness, Ryley          : 598 points
+343  | SS    | Handorff, Micah         : 598 points
+343  | SS    | Hardin, Shaina          : 598 points
+343  | SS    | Hardison, Lindsay       : 598 points
+343  | SS    | Harris, Marek           : 598 points
+343  | SS    | Hauge, Jacob            : 598 points
+343  | SS    | Hayden, Whitney         : 598 points
+343  | SS    | Heffner, Olivia         : 598 points
+343  | SS    | Herman, David           : 598 points
+343  | SS    | Heston, Aaron           : 598 points
+343  | SS    | Hirsch, Jake            : 598 points
+343  | SS    | Hobbs, q                : 598 points
+343  | SS    | Holm, Gary              : 598 points
 343  | 4     | Hughes, John            : 598 points
-343  |       | Hughes, Julie           : 598 points
-343  |       | Hurst, Sean             : 598 points
-343  |       | Jackson, Rebecca        : 598 points
-343  |       | Jago, Ben               : 598 points
-343  |       | Jantzer, Jason          : 598 points
-343  |       | Jensen, Erik            : 598 points
-343  |       | Johansen, Edie          : 598 points
-343  |       | Johansen, Erin          : 598 points
-343  |       | Johnson, Mitchell       : 598 points
-343  |       | Jordan, Jennifer        : 598 points
-343  |       | justice, Alec           : 598 points
-343  |       | Justice, Charlie        : 598 points
-343  |       | Kaluza, Kade            : 598 points
+343  | SS    | Hughes, Julie           : 598 points
+343  | SS    | Hurst, Sean             : 598 points
+343  | SS    | Jackson, Rebecca        : 598 points
+343  | SS    | Jago, Ben               : 598 points
+343  | SS    | Jantzer, Jason          : 598 points
+343  | SS    | Jensen, Erik            : 598 points
+343  | SS    | Johansen, Edie          : 598 points
+343  | SS    | Johansen, Erin          : 598 points
+343  | SS    | Johnson, Mitchell       : 598 points
+343  | SS    | Jordan, Jennifer        : 598 points
+343  | SS    | justice, Alec           : 598 points
+343  | SS    | Justice, Charlie        : 598 points
+343  | SS    | Kaluza, Kade            : 598 points
 343  | 4     | Kellogg, Sean           : 598 points
-343  |       | Kemmerle, Elias         : 598 points
-343  |       | Keser, Aidan            : 598 points
-343  |       | Kiebler, Rob            : 598 points
-343  |       | Kneece, Jenny           : 598 points
-343  |       | Koosha, Aslani          : 598 points
-343  |       | Kopecky, Taylor         : 598 points
-343  |       | Kormanik, John          : 598 points
-343  |       | Kormanik, Michelle      : 598 points
-343  |       | Kounhauser, Kailey      : 598 points
-343  |       | Krain, Ari              : 598 points
-343  |       | Krand, Scott            : 598 points
-343  |       | Kranz, Neil             : 598 points
-343  |       | Kuypers, Tony           : 598 points
-343  |       | Lair, Ethan             : 598 points
-343  |       | Laird, James            : 598 points
-343  |       | Lau, Bernie             : 598 points
-343  |       | Laverde, Marco          : 598 points
-343  |       | Lefohn, Isaac           : 598 points
-343  |       | Lemery, jeff            : 598 points
-343  |       | Leverton, Tucker        : 598 points
-343  |       | Lisk, Martin            : 598 points
-343  |       | Lopez, Kassy            : 598 points
-343  |       | Lundy, Cynthia          : 598 points
-343  |       | Lynn, Brodie            : 598 points
-343  |       | Mafchinwerth, Quinn     : 598 points
-343  |       | Marshall, Carry         : 598 points
-343  |       | Martizia, Jeff          : 598 points
-343  |       | McCllelland, Aidan      : 598 points
-343  |       | McKenna, Dan            : 598 points
-343  |       | McLane, Jonathan        : 598 points
-343  |       | Megowan, Cordelia       : 598 points
-343  |       | Menashe-Strom, Severen  : 598 points
-343  |       | Metz, Andrew            : 598 points
-343  |       | Meyerson, Lyle          : 598 points
-343  |       | Miers, Pete             : 598 points
-343  |       | Milander, Daniel        : 598 points
-343  |       | Miller, Nick            : 598 points
-343  |       | Miro, Adi               : 598 points
-343  |       | Mitchell, Debora        : 598 points
-343  |       | Mobley, Todd            : 598 points
+343  | SS    | Kemmerle, Elias         : 598 points
+343  | SS    | Keser, Aidan            : 598 points
+343  | SS    | Kiebler, Rob            : 598 points
+343  | SS    | Kneece, Jenny           : 598 points
+343  | SS    | Koosha, Aslani          : 598 points
+343  | SS    | Kopecky, Taylor         : 598 points
+343  | SS    | Kormanik, John          : 598 points
+343  | SS    | Kormanik, Michelle      : 598 points
+343  | SS    | Kounhauser, Kailey      : 598 points
+343  | SS    | Krain, Ari              : 598 points
+343  | SS    | Krand, Scott            : 598 points
+343  | SS    | Kranz, Neil             : 598 points
+343  | SS    | Kuypers, Tony           : 598 points
+343  | SS    | Lair, Ethan             : 598 points
+343  | SS    | Laird, James            : 598 points
+343  | SS    | Lau, Bernie             : 598 points
+343  | SS    | Laverde, Marco          : 598 points
+343  | SS    | Lefohn, Isaac           : 598 points
+343  | SS    | Lemery, jeff            : 598 points
+343  | SS    | Leverton, Tucker        : 598 points
+343  | SS    | Lisk, Martin            : 598 points
+343  | SS    | Lopez, Kassy            : 598 points
+343  | SS    | Lundy, Cynthia          : 598 points
+343  | SS    | Lynn, Brodie            : 598 points
+343  | SS    | Mafchinwerth, Quinn     : 598 points
+343  | SS    | Marshall, Carry         : 598 points
+343  | SS    | Martizia, Jeff          : 598 points
+343  | SS    | McCllelland, Aidan      : 598 points
+343  | SS    | McKenna, Dan            : 598 points
+343  | SS    | McLane, Jonathan        : 598 points
+343  | SS    | Megowan, Cordelia       : 598 points
+343  | SS    | Menashe-Strom, Severen  : 598 points
+343  | SS    | Metz, Andrew            : 598 points
+343  | SS    | Meyerson, Lyle          : 598 points
+343  | SS    | Miers, Pete             : 598 points
+343  | SS    | Milander, Daniel        : 598 points
+343  | SS    | Miller, Nick            : 598 points
+343  | SS    | Miro, Adi               : 598 points
+343  | SS    | Mitchell, Debora        : 598 points
+343  | SS    | Mobley, Todd            : 598 points
 343  | 5     | Morelan, Ian            : 598 points
-343  |       | Morrow, Magdelana       : 598 points
-343  |       | Morse, Lindsey          : 598 points
-343  |       | Nary, Gabriel           : 598 points
-343  |       | Navarro-Mendoza, Isaac  : 598 points
-343  |       | Navarro-Mendoza, Issac  : 598 points
-343  |       | Nelson, Jeff            : 598 points
-343  |       | Neuman, Tom             : 598 points
-343  |       | newell, melanie         : 598 points
-343  |       | Ngo, Thomas             : 598 points
-343  |       | Nikzi, Carleen          : 598 points
-343  |       | Oswald, Andreas         : 598 points
-343  |       | Oswald, Jeff            : 598 points
-343  |       | Pacheco, Jimmy          : 598 points
-343  |       | Parker, Zoe             : 598 points
-343  |       | Patch, Lori             : 598 points
-343  |       | Patterson, Gilia        : 598 points
-343  |       | Patton, Jim             : 598 points
-343  |       | Petersen, Andrew        : 598 points
-343  |       | Petz, Nathan            : 598 points
-343  |       | Piercy, Natalie         : 598 points
-343  |       | Pillsbury, Glory        : 598 points
-343  |       | Powell, Nik             : 598 points
-343  |       | Price, Lyndsey          : 598 points
-343  |       | Ragsdale, Kaylie        : 598 points
-343  |       | Ramey, Aaron            : 598 points
-343  |       | Reade, Ashley           : 598 points
-343  |       | Reed, Peter             : 598 points
-343  |       | Reines, Dave            : 598 points
+343  | SS    | Morrow, Magdelana       : 598 points
+343  | SS    | Morse, Lindsey          : 598 points
+343  | SS    | Nary, Gabriel           : 598 points
+343  | SS    | Navarro-Mendoza, Isaac  : 598 points
+343  | SS    | Navarro-Mendoza, Issac  : 598 points
+343  | SS    | Nelson, Jeff            : 598 points
+343  | SS    | Neuman, Tom             : 598 points
+343  | SS    | newell, melanie         : 598 points
+343  | SS    | Ngo, Thomas             : 598 points
+343  | SS    | Nikzi, Carleen          : 598 points
+343  | SS    | Oswald, Andreas         : 598 points
+343  | SS    | Oswald, Jeff            : 598 points
+343  | SS    | Pacheco, Jimmy          : 598 points
+343  | SS    | Parker, Zoe             : 598 points
+343  | SS    | Patch, Lori             : 598 points
+343  | SS    | Patterson, Gilia        : 598 points
+343  | SS    | Patton, Jim             : 598 points
+343  | SS    | Petersen, Andrew        : 598 points
+343  | SS    | Petz, Nathan            : 598 points
+343  | SS    | Piercy, Natalie         : 598 points
+343  | SS    | Pillsbury, Glory        : 598 points
+343  | SS    | Powell, Nik             : 598 points
+343  | SS    | Price, Lyndsey          : 598 points
+343  | SS    | Ragsdale, Kaylie        : 598 points
+343  | SS    | Ramey, Aaron            : 598 points
+343  | SS    | Reade, Ashley           : 598 points
+343  | SS    | Reed, Peter             : 598 points
+343  | SS    | Reines, Dave            : 598 points
 343  | 5     | Resnik, Kyle            : 598 points
-343  |       | Reynolds, Sam           : 598 points
-343  |       | Ricciardi, Tom          : 598 points
-343  |       | Richey, Maurice         : 598 points
-343  |       | Rose, Jeremy            : 598 points
-343  |       | Rose, Tara              : 598 points
-343  |       | ROUSSEAU, GINA          : 598 points
-343  |       | Rowlatt, Richard        : 598 points
-343  |       | Russell, Hunter         : 598 points
-343  |       | Russenberger, Isabelle  : 598 points
-343  |       | Salas, David            : 598 points
-343  |       | Salbador, Sam           : 598 points
-343  |       | Saviage, Heather        : 598 points
-343  |       | Schauer, Trevor         : 598 points
+343  | SS    | Reynolds, Sam           : 598 points
+343  | SS    | Ricciardi, Tom          : 598 points
+343  | SS    | Richey, Maurice         : 598 points
+343  | SS    | Rose, Jeremy            : 598 points
+343  | SS    | Rose, Tara              : 598 points
+343  | SS    | ROUSSEAU, GINA          : 598 points
+343  | SS    | Rowlatt, Richard        : 598 points
+343  | SS    | Russell, Hunter         : 598 points
+343  | SS    | Russenberger, Isabelle  : 598 points
+343  | SS    | Salas, David            : 598 points
+343  | SS    | Salbador, Sam           : 598 points
+343  | SS    | Saviage, Heather        : 598 points
+343  | SS    | Schauer, Trevor         : 598 points
 343  | 4     | Schesnack, Stewart      : 598 points
-343  |       | Schram, Bridgette       : 598 points
-343  |       | Schultness, Eric        : 598 points
-343  |       | Scott, Maggie           : 598 points
-343  |       | Sederbaum, Isaac        : 598 points
-343  |       | Sehrer, Trevor          : 598 points
-343  |       | Serricchio, Maru        : 598 points
-343  |       | Severance, Keith        : 598 points
-343  |       | Sheets-Singer, Alison   : 598 points
-343  |       | Sherwood, John          : 598 points
-343  |       | Sidener, Scott          : 598 points
-343  |       | Singer-Englar, Aaron    : 598 points
-343  |       | Skerritt, Kieran        : 598 points
+343  | SS    | Schram, Bridgette       : 598 points
+343  | SS    | Schultness, Eric        : 598 points
+343  | SS    | Scott, Maggie           : 598 points
+343  | SS    | Sederbaum, Isaac        : 598 points
+343  | SS    | Sehrer, Trevor          : 598 points
+343  | SS    | Serricchio, Maru        : 598 points
+343  | SS    | Severance, Keith        : 598 points
+343  | SS    | Sheets-Singer, Alison   : 598 points
+343  | SS    | Sherwood, John          : 598 points
+343  | SS    | Sidener, Scott          : 598 points
+343  | SS    | Singer-Englar, Aaron    : 598 points
+343  | SS    | Skerritt, Kieran        : 598 points
 343  | 4     | Smith, Becca            : 598 points
-343  |       | Smith, Tommy            : 598 points
-343  |       | Spriggs, Mara           : 598 points
-343  |       | Stanny, Margaret        : 598 points
-343  |       | Stavro, Christina       : 598 points
-343  |       | Steel, Diana            : 598 points
+343  | SS    | Smith, Tommy            : 598 points
+343  | SS    | Spriggs, Mara           : 598 points
+343  | SS    | Stanny, Margaret        : 598 points
+343  | SS    | Stavro, Christina       : 598 points
+343  | SS    | Steel, Diana            : 598 points
 343  | 5     | Steinke, Carl           : 598 points
-343  |       | Stephens, Marcus        : 598 points
-343  |       | Stevens, Lauren         : 598 points
-343  |       | Stiner, Gustav          : 598 points
-343  |       | Stone, Kevin            : 598 points
-343  |       | Stoumbos, Ana           : 598 points
-343  |       | strait, shannnon        : 598 points
-343  |       | Strickler, Austin       : 598 points
-343  |       | Stromquist, Ella        : 598 points
-343  |       | Swanson, Bjorn          : 598 points
+343  | SS    | Stephens, Marcus        : 598 points
+343  | SS    | Stevens, Lauren         : 598 points
+343  | SS    | Stiner, Gustav          : 598 points
+343  | SS    | Stone, Kevin            : 598 points
+343  | SS    | Stoumbos, Ana           : 598 points
+343  | SS    | strait, shannnon        : 598 points
+343  | SS    | Strickler, Austin       : 598 points
+343  | SS    | Stromquist, Ella        : 598 points
+343  | SS    | Swanson, Bjorn          : 598 points
 343  | 3     | Tabtabai, Michael       : 598 points
-343  |       | Thurber, Andrew         : 598 points
-343  |       | Thurber, Jason          : 598 points
-343  |       | Toufar, Paul            : 598 points
-343  |       | Trythall, Mark          : 598 points
-343  |       | Tunnell, Karen          : 598 points
-343  |       | Tyler, Lee              : 598 points
-343  |       | Unger, Caleb            : 598 points
-343  |       | Vachter, Kjerstine      : 598 points
-343  |       | Van Otterloo, Joshua    : 598 points
-343  |       | Van Wing, Sage          : 598 points
-343  |       | Villegas, Cesar         : 598 points
-343  |       | Vokicevick, Eric        : 598 points
-343  |       | Waddell, Michelle       : 598 points
-343  |       | Walker, Issak           : 598 points
-343  |       | Walker, Lindsay         : 598 points
-343  |       | Watson, David           : 598 points
-343  |       | Weathyers, Ryan         : 598 points
-343  |       | Wilcox, Charlie         : 598 points
-343  |       | Wilder, Jesse           : 598 points
-343  |       | Williams, James         : 598 points
-343  |       | Wingfield, Heston       : 598 points
-343  |       | Wood, Bryce             : 598 points
-343  |       | Wrast, Dave             : 598 points
-343  |       | Wynkoop, Eric           : 598 points
-343  |       | Yano, Shu               : 598 points
-343  |       | Yuen, Justin            : 598 points
-343  |       | Zaker, Evan             : 598 points
-343  |       | Zanger, Mataya          : 598 points
+343  | SS    | Thurber, Andrew         : 598 points
+343  | SS    | Thurber, Jason          : 598 points
+343  | SS    | Toufar, Paul            : 598 points
+343  | SS    | Trythall, Mark          : 598 points
+343  | SS    | Tunnell, Karen          : 598 points
+343  | SS    | Tyler, Lee              : 598 points
+343  | SS    | Unger, Caleb            : 598 points
+343  | SS    | Vachter, Kjerstine      : 598 points
+343  | SS    | Van Otterloo, Joshua    : 598 points
+343  | SS    | Van Wing, Sage          : 598 points
+343  | SS    | Villegas, Cesar         : 598 points
+343  | SS    | Vokicevick, Eric        : 598 points
+343  | SS    | Waddell, Michelle       : 598 points
+343  | SS    | Walker, Issak           : 598 points
+343  | SS    | Walker, Lindsay         : 598 points
+343  | SS    | Watson, David           : 598 points
+343  | SS    | Weathyers, Ryan         : 598 points
+343  | SS    | Wilcox, Charlie         : 598 points
+343  | SS    | Wilder, Jesse           : 598 points
+343  | SS    | Williams, James         : 598 points
+343  | SS    | Wingfield, Heston       : 598 points
+343  | SS    | Wood, Bryce             : 598 points
+343  | SS    | Wrast, Dave             : 598 points
+343  | SS    | Wynkoop, Eric           : 598 points
+343  | SS    | Yano, Shu               : 598 points
+343  | SS    | Yuen, Justin            : 598 points
+343  | SS    | Zaker, Evan             : 598 points
+343  | SS    | Zanger, Mataya          : 598 points
