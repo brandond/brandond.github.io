@@ -1,0 +1,23 @@
+--- charts-original/templates/configmap-env.yaml
++++ charts/templates/configmap-env.yaml
+@@ -32,14 +32,19 @@
+   MALLOC_ARENA_MAX: "2"
+   NODE_ENV: "production"
+   RAILS_ENV: "production"
++  {{- if .Values.redis.enabled }}
+   REDIS_HOST: {{ template "mastodon.redis.fullname" . }}-master
+   REDIS_PORT: "6379"
++  {{- else }}
++  REDIS_HOST: {{ .Values.redis.redisHostname }}
++  REDIS_PORT: {{ .Values.redis.redisPort | default "6379" | quote }}
++  {{- end }}
+   {{- if .Values.mastodon.s3.enabled }}
+   S3_BUCKET: {{ .Values.mastodon.s3.bucket }}
+   S3_ENABLED: "true"
+   S3_ENDPOINT: {{ .Values.mastodon.s3.endpoint }}
+   S3_HOSTNAME: {{ .Values.mastodon.s3.hostname }}
+-  S3_PROTOCOL: "https"
++  S3_PROTOCOL: {{ .Values.mastodon.s3.protocol | default "https" }}
+   {{- if .Values.mastodon.s3.region }}
+   S3_REGION: {{ .Values.mastodon.s3.region }}
+   {{- end }}
