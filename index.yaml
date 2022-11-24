@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  mastodon:
+  - apiVersion: v2
+    appVersion: v4.0.2
+    created: "2022-11-24T06:57:13.935903109Z"
+    dependencies:
+    - condition: elasticsearch.enabled
+      name: elasticsearch
+      repository: file://./charts/elasticsearch
+    - condition: postgresql.enabled
+      name: postgresql
+      repository: file://./charts/postgresql
+    - name: redis
+      repository: file://./charts/redis
+    description: Mastodon is a free, open-source social network server based on ActivityPub.
+    digest: 959f1a00c0774f6fdb6ab5eaa066f83633f5da93c9bf0997f3f770d19d87b9a7
+    name: mastodon
+    type: application
+    urls:
+    - assets/mastodon/mastodon-3.0.1+up3.0.0.tgz
+    version: 3.0.1+up3.0.0
+generated: "2022-11-24T06:57:13.915781825Z"
