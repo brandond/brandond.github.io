@@ -60,4 +60,50 @@ entries:
     urls:
     - assets/mastodon/mastodon-3.0.1+up3.0.0.tgz
     version: 3.0.1+up3.0.0
+  traefik:
+  - annotations:
+      artifacthub.io/changes: "- ⬆️i Update Traefik appVersion to 2.9.5\n- \U0001F41B
+        Use static appVersion for testing container config\n"
+    apiVersion: v2
+    appVersion: v2.9.5
+    created: "2022-11-26T21:01:17.981487921Z"
+    description: A Traefik based Kubernetes ingress controller
+    digest: 16217f91dc4df3dde38085dac002c41b9035d7ba991b592e2269958cdb10efa7
+    home: https://traefik.io/
+    icon: https://raw.githubusercontent.com/traefik/traefik/v2.3/docs/content/assets/img/traefik.logo.png
+    keywords:
+    - traefik
+    - ingress
+    maintainers:
+    - email: emile@vauge.com
+      name: emilevauge
+    - email: daniel.tomcej@gmail.com
+      name: dtomcej
+    - email: ldez@traefik.io
+      name: ldez
+    - email: michel.loiseleur@traefik.io
+      name: mloiseleur
+    - email: charlie.haley@traefik.io
+      name: charlie-haley
+    name: traefik
+    sources:
+    - https://github.com/traefik/traefik
+    - https://github.com/traefik/traefik-helm-chart
+    type: application
+    urls:
+    - assets/traefik/traefik-20.5.201+up20.5.2.tgz
+    version: 20.5.201+up20.5.2
+  traefik-crd:
+  - annotations:
+      fleet.cattle.io/bundle-id: k3s
+    apiVersion: v1
+    appVersion: 2.9.4
+    created: "2022-11-26T20:50:38.990626045Z"
+    description: Installs the CRDs for traefik
+    digest: 47192307011026e40199fe849037fb2f27bfa2de2f4b11ef3783b63fdf8a8774
+    name: traefik-crd
+    type: application
+    urls:
+    - assets/traefik-crd/traefik-crd-20.5.201+up20.5.2.tgz
+    version: 20.5.201+up20.5.2
 generated: "2022-11-24T06:57:13.915781825Z"
