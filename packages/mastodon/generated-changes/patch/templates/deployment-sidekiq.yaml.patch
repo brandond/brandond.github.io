@@ -1,0 +1,11 @@
+--- charts-original/templates/deployment-sidekiq.yaml
++++ charts/templates/deployment-sidekiq.yaml
+@@ -96,7 +96,7 @@
+             - name: "AWS_ACCESS_KEY_ID"
+               valueFrom:
+                 secretKeyRef:
+-                  name: {{ .Values.mastodon.s3.existingSecret }}
++                  name: {{ $context.Values.mastodon.s3.existingSecret }}
+                   key: AWS_ACCESS_KEY_ID
+             {{- end }}
+             {{- if $context.Values.mastodon.smtp.existingSecret }}
