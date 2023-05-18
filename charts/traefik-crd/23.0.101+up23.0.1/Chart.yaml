@@ -1,8 +1,8 @@
+annotations:
+  fleet.cattle.io/bundle-id: k3s
 apiVersion: v1
-version: 23.0.1
 appVersion: v2.10.1
 description: Installs the CRDs for traefik
 name: traefik-crd
 type: application
-annotations:
-  fleet.cattle.io/bundle-id: k3s
+version: 23.0.101+up23.0.1

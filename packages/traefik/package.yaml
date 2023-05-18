@@ -1,4 +1,4 @@
-url: https://traefik.github.io/charts/traefik/traefik-20.5.2.tgz
+url: https://traefik.github.io/charts/traefik/traefik-23.0.1.tgz
 packageVersion: 1
 additionalCharts:
   - workingDir: charts-crd
