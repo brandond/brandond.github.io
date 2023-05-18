@@ -1,0 +1,8 @@
+--- charts-original/values.yaml
++++ charts/values.yaml
+@@ -897,3 +897,5 @@
+ #
+ ## This will override the default app.kubernetes.io/instance label for all Objects.
+ # instanceLabelOverride: traefik
++global:
++  systemDefaultRegistry: ""
