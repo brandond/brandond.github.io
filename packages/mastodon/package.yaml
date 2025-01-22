@@ -1,4 +1,4 @@
 url: https://github.com/mastodon/mastodon.git
 subdirectory: chart
 commit: 8acf18a960cd4328d5a52fa820ce3fe741445bc5
-packageVersion: 3
+packageVersion: 4

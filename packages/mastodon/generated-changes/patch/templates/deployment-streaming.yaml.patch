@@ -1,0 +1,11 @@
+--- charts-original/templates/deployment-streaming.yaml
++++ charts/templates/deployment-streaming.yaml
+@@ -37,7 +37,7 @@
+           securityContext:
+             {{- toYaml . | nindent 12 }}
+           {{- end }}
+-          image: "{{ .Values.image.repository }}:{{ .Values.image.tag | default .Chart.AppVersion }}"
++          image: "{{ .Values.mastodon.streaming.image.repository }}:{{ coalesce .Values.mastodon.streaming.image.tag .Values.image.tag .Chart.AppVersion }}"
+           imagePullPolicy: {{ .Values.image.pullPolicy }}
+           command:
+             - node
