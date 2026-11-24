@@ -1,25 +1,29 @@
-name: CI-pullrequest
+name: Pull Request
 
 on:
+  workflow_dispatch:
   pull_request:
     branches:
-      - dev-v2.6
+      - master
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout Code
+        uses: actions/checkout@v7
 
-      - name: Checkout into branch
-        run: git checkout -b staging-pr-workflow
+      - name: Remove user from docker group
+        run: |
+          sudo usermod -rG docker $(whoami)
 
-      - name: Pull scripts
-        run: sudo make pull-scripts
+      - name: Show groups
+        run: |
+          groups
 
-      - name: Pull in all relevant branches
-        run: git fetch origin release-v2.6
-      
-      - name: Validate 
-        run: sudo make validate
+      - name: Set up Docker
+        uses: docker/setup-docker-action@v5.7.0
+        with:
+          version: type=image,tag=29
+          set-host: true
